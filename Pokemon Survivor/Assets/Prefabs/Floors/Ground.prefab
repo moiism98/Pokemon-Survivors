@@ -1,0 +1,216 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1351615280350155490
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6929971825454045447}
+  - component: {fileID: 165545228688500203}
+  - component: {fileID: 2825407264645432944}
+  - component: {fileID: 4607178193809440592}
+  m_Layer: 0
+  m_Name: Ground
+  m_TagString: Ground
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6929971825454045447
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1351615280350155490}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1839735485 &165545228688500203
+Tilemap:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1351615280350155490}
+  m_Enabled: 1
+  m_Tiles: {}
+  m_AnimatedTiles: {}
+  m_TileAssetArray:
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  m_TileSpriteArray:
+  - m_RefCount: 0
+    m_Data: {fileID: 0}
+  m_TileMatrixArray:
+  - m_RefCount: 0
+    m_Data:
+      e00: 0
+      e01: 0
+      e02: 5.877494e-39
+      e03: 5.877494e-39
+      e10: 0
+      e11: 0
+      e12: 6.92e-43
+      e13: 6.92e-43
+      e20: 4.7705993e-27
+      e21: -9.938217e+20
+      e22: -6.686899e-19
+      e23: 5.8529625e+19
+      e30: 4.5904e-41
+      e31: 6.95e-43
+      e32: 6.92e-43
+      e33: 6.95e-43
+  m_TileColorArray:
+  - m_RefCount: 0
+    m_Data: {r: 3.733e-41, g: 3.733e-41, b: 3.733e-41, a: 3.733e-41}
+  m_TileObjectToInstantiateArray: []
+  m_AnimationFrameRate: 1
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Origin: {x: -3, y: -4, z: 0}
+  m_Size: {x: 6, y: 5, z: 1}
+  m_TileAnchor: {x: 0.5, y: 0.5, z: 0}
+  m_TileOrientation: 0
+  m_TileOrientationMatrix:
+    e00: 1
+    e01: 0
+    e02: 0
+    e03: 0
+    e10: 0
+    e11: 1
+    e12: 0
+    e13: 0
+    e20: 0
+    e21: 0
+    e22: 1
+    e23: 0
+    e30: 0
+    e31: 0
+    e32: 0
+    e33: 1
+--- !u!483693784 &2825407264645432944
+TilemapRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1351615280350155490}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 0
+  m_ReflectionProbeUsage: 0
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: -881153667
+  m_SortingLayer: 2
+  m_SortingOrder: 0
+  m_ChunkSize: {x: 32, y: 32, z: 32}
+  m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
+  m_MaxChunkCount: 16
+  m_MaxFrameAge: 16
+  m_SortOrder: 0
+  m_Mode: 0
+  m_DetectChunkCullingBounds: 0
+  m_MaskInteraction: 0
+--- !u!114 &4607178193809440592
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1351615280350155490}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f661d463e71f4848b7e34f5231727d6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tilemap: {fileID: 165545228688500203}
+  items:
+  - item: {fileID: 6898490488124834509, guid: e1191d33093e9c147806ffbddf314b46, type: 3}
+    probability: 30
+  - item: {fileID: 2470347146360310786, guid: 4dab80632f3af384981849fc8496c899, type: 3}
+    probability: 25
+  - item: {fileID: 1014399651215043086, guid: de9a1411a6782a44699cd030a4767d97, type: 3}
+    probability: 20
+  - item: {fileID: 8785507931869591981, guid: 8ed4bbacdffe9c646ae2736c7f85bbe8, type: 3}
+    probability: 1
+  - item: {fileID: 8166834223401490792, guid: a4ec0ae5cab7efe4daeec9c342a52dde, type: 3}
+    probability: 40
+  - item: {fileID: 8586875656599033321, guid: 4d498fa72673f6a41b4f5a51f2c12163, type: 3}
+    probability: 60
+  - item: {fileID: 7909890729939892920, guid: 9f6b5f48b8ff08c4b97b53cb38db56a8, type: 3}
+    probability: 15
+  - item: {fileID: 3409198882023594405, guid: 7630dacc81a38fa4c806809cce166d4f, type: 3}
+    probability: 75
+  - item: {fileID: 1940142661052688645, guid: c527765240419df4fb53f11441140ba4, type: 3}
+    probability: 50
+  - item: {fileID: 4558548490535323316, guid: bb6c8ddd9db1d82468b2d99555a4ed99, type: 3}
+    probability: 3
+  - item: {fileID: 1600553914429970476, guid: 05e242257aaf20c48b523140ba81037d, type: 3}
+    probability: 75
+  - item: {fileID: 2317318252052389003, guid: 4f37cd3e30913004da6a2615e01abc72, type: 3}
+    probability: 45
+  - item: {fileID: 3105214238775827960, guid: df0fe80eef1a76041a14f4c69d80c882, type: 3}
+    probability: 30
+  - item: {fileID: 7968980114833374028, guid: 673f8cc9abb551447b326e5e5710d68c, type: 3}
+    probability: 30
+  - item: {fileID: 4620387449699074334, guid: 417f5b72e0ccd124da68bffdd5b42acc, type: 3}
+    probability: 30
+  - item: {fileID: 4968821504196859436, guid: 767db6c99d0816d479e716d27275882b, type: 3}
+    probability: 30
+  - item: {fileID: 7739071311630038951, guid: f7cc47722beb7344cb51427334c272c1, type: 3}
+    probability: 30
+  - item: {fileID: 19833166247057802, guid: a4c710b0615496841bc3d8f9be34aed1, type: 3}
+    probability: 10
+  - item: {fileID: 216001762817507055, guid: fde9e944510cdaf46bd9ee33bd18e257, type: 3}
+    probability: 5
+  - item: {fileID: 1597934320466400344, guid: 50dd73ddcd7a5e84a8eb34e8b085128a, type: 3}
+    probability: 1
+  - item: {fileID: 2067450991645460464, guid: 5c171bfcd56793f4e8017ba610861554, type: 3}
+    probability: 75
+  - item: {fileID: 2684942529060175530, guid: 636cccd6a0eb362449b83768bdf4ece3, type: 3}
+    probability: 30
+  - item: {fileID: 6231218016791772781, guid: 36d943a21f26a6242945451bf34310b1, type: 3}
+    probability: 10
+  oneSpawn:
+  - item: {fileID: 0}
+    probability: 100
+  - item: {fileID: 7533867733237621095, guid: 2a7f46581fc21ab46ac397ef01846ee5, type: 3}
+    probability: 100
+  - item: {fileID: 5000245260884982418, guid: 585c745c107e9c74dbb01e5cbe4bbaad, type: 3}
+    probability: 1
+  kecleonShopSpawnPoints: []
+  maxItems: 20

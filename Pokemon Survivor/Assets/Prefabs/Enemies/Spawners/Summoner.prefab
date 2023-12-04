@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4187505225457302296
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2933459292700092349}
+  - component: {fileID: 1311882170564650247}
+  m_Layer: 0
+  m_Name: Summoner
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2933459292700092349
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4187505225457302296}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1311882170564650247
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4187505225457302296}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc6566bd3c098fc49961bd03bb577616, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  summonList:
+  - pokemon: {fileID: 2328033772110509275, guid: e8d922a1efc35f145a2cb8817cccc63b, type: 3}
+    spawnProbability: 75
+  - pokemon: {fileID: 6236698177029059573, guid: 62731994bc3ca534a80bada16b46da52, type: 3}
+    spawnProbability: 75
+  - pokemon: {fileID: 2786332910019875672, guid: d41ad7d1eeacfbc409ad1a9d0d2faa3d, type: 3}
+    spawnProbability: 50
+  - pokemon: {fileID: 7469182189057879234, guid: f5c178da6bc63ba42b061b33f1e3da51, type: 3}
+    spawnProbability: 45
+  - pokemon: {fileID: 1283745469785981668, guid: e889d640525667a41952f306c9643133, type: 3}
+    spawnProbability: 45
+  - pokemon: {fileID: 7103799620019387638, guid: fec010ae79665c2409e70aae157c5b48, type: 3}
+    spawnProbability: 35
+  - pokemon: {fileID: 427917874161623143, guid: aeadc2c90d0000e43883e63a7347aceb, type: 3}
+    spawnProbability: 25
+  - pokemon: {fileID: 7831392727639008163, guid: 94fd35bea6c362a42a24fb2fe151e90c, type: 3}
+    spawnProbability: 25
+  - pokemon: {fileID: 7851389732289487731, guid: f53f9ab261b3a8c4d82f5e7c4748d3ec, type: 3}
+    spawnProbability: 0
+  - pokemon: {fileID: 5675753429144658416, guid: 3a95dc0a7f3b09f449039f97b44b6de3, type: 3}
+    spawnProbability: 0
+  - pokemon: {fileID: 1000031139439019041, guid: 615ce984e50670f418682147f3acfbb9, type: 3}
+    spawnProbability: 0
+  - pokemon: {fileID: 693933087787485945, guid: 1f946b573def4cf45ae73da96df9d7af, type: 3}
+    spawnProbability: 0
+  - pokemon: {fileID: 7493019732965941251, guid: 59100b2409c19eb4da198ff4fc386f80, type: 3}
+    spawnProbability: 0
+  - pokemon: {fileID: 1527947264597730284, guid: 3b10b849c18884b439e33465c4e8f671, type: 3}
+    spawnProbability: 0
+  - pokemon: {fileID: 6299490400153674027, guid: 7fc540b9d11d8b54ba132acf44c99471, type: 3}
+    spawnProbability: 0
+  - pokemon: {fileID: 5747079418767429323, guid: b84e0ba1cc1165245a203a33b01087c2, type: 3}
+    spawnProbability: 0
+  animator: {fileID: 0}
+  enemyMovement: {fileID: 0}
+  visualRange: {fileID: 0}
+  feets: {fileID: 0}
+  playerLayer:
+    serializedVersion: 2
+    m_Bits: 256
+  range: 3
+  summonTime: 5

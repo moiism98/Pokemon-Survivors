@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6007679509003191452
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5717063693297481374, guid: 62731994bc3ca534a80bada16b46da52, type: 3}
+      propertyPath: initialMoveSpeed
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6236698177029059573, guid: 62731994bc3ca534a80bada16b46da52, type: 3}
+      propertyPath: m_Name
+      value: BigElectrode Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6412369238324858447, guid: 62731994bc3ca534a80bada16b46da52, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 6412369238324858447, guid: 62731994bc3ca534a80bada16b46da52, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.75
+      objectReference: {fileID: 0}
+    - target: {fileID: 6412369238324858447, guid: 62731994bc3ca534a80bada16b46da52, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.967
+      objectReference: {fileID: 0}
+    - target: {fileID: 6412369238324858447, guid: 62731994bc3ca534a80bada16b46da52, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.029
+      objectReference: {fileID: 0}
+    - target: {fileID: 6412369238324858447, guid: 62731994bc3ca534a80bada16b46da52, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6412369238324858447, guid: 62731994bc3ca534a80bada16b46da52, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6412369238324858447, guid: 62731994bc3ca534a80bada16b46da52, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6412369238324858447, guid: 62731994bc3ca534a80bada16b46da52, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6412369238324858447, guid: 62731994bc3ca534a80bada16b46da52, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6412369238324858447, guid: 62731994bc3ca534a80bada16b46da52, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6412369238324858447, guid: 62731994bc3ca534a80bada16b46da52, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6412369238324858447, guid: 62731994bc3ca534a80bada16b46da52, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6813995347369725472, guid: 62731994bc3ca534a80bada16b46da52, type: 3}
+      propertyPath: enemyMaxHealth
+      value: 175
+      objectReference: {fileID: 0}
+    - target: {fileID: 6813995347369725472, guid: 62731994bc3ca534a80bada16b46da52, type: 3}
+      propertyPath: strongAttackPoints
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 6813995347369725472, guid: 62731994bc3ca534a80bada16b46da52, type: 3}
+      propertyPath: dropList.Array.data[1].probability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7078248666061309175, guid: 62731994bc3ca534a80bada16b46da52, type: 3}
+      propertyPath: initialAttackDamage
+      value: 50
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 62731994bc3ca534a80bada16b46da52, type: 3}

@@ -1,0 +1,1887 @@
+fileFormatVersion: 2
+guid: 0950c73584abfdc4fbebc33f75ad3c90
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Charge-Anim_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459ac071a286138478638df1d84e68ef
+      internalID: 669461968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c543a098d328f24d8a666fe498d0549
+      internalID: -719849495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4158ba7578bbd4b48bf76dae6c7e7f87
+      internalID: 1031561301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c657d20ff87d9048a71f5aecc46677f
+      internalID: 1137942714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_4
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2367c4d815f36f4b91fd828d9d8eb95
+      internalID: 176212563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_5
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deceb5d9d6080d24ea68a7adc31dd078
+      internalID: -524851506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_6
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a726e7dde31175f42b1efb09dc101c33
+      internalID: 258651547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e881706367952419b057c82078d186
+      internalID: 206689904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_8
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283c8c9e131960440ade416405acef01
+      internalID: 994719379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_9
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 352
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32380386e5f4b2e45aba1b16d665ac45
+      internalID: -711866995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_10
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 305
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7713a19570283f94ca17cbd7a57dfa0f
+      internalID: -802933078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_11
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 304
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc002e999c31394f8f3a8fb2953f140
+      internalID: 664262216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 305
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b6c8acdc26a904387b6cb3a3f91e1a
+      internalID: -1726161380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 304
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32442a0068d3b645b34921c84f75534
+      internalID: -1368861699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_14
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 305
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b045bd2c8c487b24896dbab2cc7eaa8a
+      internalID: -824985493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_15
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 304
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c16ef9e6ed76cb48a1bea974c9beb0f
+      internalID: 1264480691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_16
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 305
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f609622383958284eb58f7b1ccb6e170
+      internalID: -1212534111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_17
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 304
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09aa66f32fd906549998382b217e8f4a
+      internalID: 228586965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_18
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 305
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a89606c0e339447be84650c3d045f6
+      internalID: 192322627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_19
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 304
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fef98e9065c0c4a931c185a4d78e01
+      internalID: 643381843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_20
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 258
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca288af152709c438643e08cdd35cb1
+      internalID: 1439015986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_21
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 256
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7eb47d7a1d34f84588a65062593b3fe
+      internalID: -571852862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_22
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 258
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d374326e91d254696a81857d0755aa
+      internalID: -1288676253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_23
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 256
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eccf463cb072354d825e23c5ebf4479
+      internalID: 2098321461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_24
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 258
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7f1f9dbbaa83041a233fc1c6047f7d
+      internalID: -2024375043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_25
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 256
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55d7c8294f2be443ad6b3f36ec0517b
+      internalID: 1487555419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_26
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 258
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f771ad7618e58174d90985e6efce667f
+      internalID: -931663083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_27
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 256
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4599b0703229f4499f058586d8b5ab9
+      internalID: 2079837792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_28
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 258
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46ecb744f8c6194c8c5156455287d06
+      internalID: -1439524444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_29
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 256
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a58d34ce00e464db53896e0f0303b8
+      internalID: -1230968380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_30
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 209
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b066342bfb7abc45bb09885dd50d05b
+      internalID: 1687911260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_31
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 208
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019797de0fce671498bb39cd4f2c30de
+      internalID: -501321119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_32
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 209
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff5203f58439bc4db6601c7c0af9953
+      internalID: 1473398422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_33
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 208
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ad65e89960536419198fdec455dd59
+      internalID: 602840964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_34
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 209
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e1837853f640a64a8a70b24711f4986
+      internalID: 706741549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_35
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 208
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ad51e757079fb428abb9ea3bab5bf2
+      internalID: -100736119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_36
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 209
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c2d9cfb84ab2449a67e0966186840b
+      internalID: -652992850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_37
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 208
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd732dd55b2a15549b06f5224596a932
+      internalID: -932876417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_38
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 209
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27b762e6c3b627046b68bf435f68ad92
+      internalID: 1683556317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_39
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 208
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdfb017c9cd5b70408f369022a11f9ec
+      internalID: -1481598705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_40
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 160
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aca0c54d6492f6449c87308ffa1494d
+      internalID: 847642022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_41
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 160
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4122f993dc01f4a975707180630bfc
+      internalID: 31707504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_42
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 160
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969b1620bb7046d4882282a8fc565370
+      internalID: -1372392631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_43
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 160
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc0b34160cfeeb4ca85ad6da499ed95
+      internalID: -556111186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_44
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 160
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf09fe0bbf8781449311bded2506831
+      internalID: 1375060119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_45
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 160
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a13749baa45244c9b7daf20a3b90c7
+      internalID: -1803231319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_46
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 160
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d535660ba57a24781abcefd54ef6ed
+      internalID: 839438464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_47
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 160
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab94aa4c7730cc4caf3ac419eacf7ab
+      internalID: 1789221821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_48
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 160
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01e2db5c619cc04e9c96e9034967c46
+      internalID: 106868614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_49
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 160
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15dca35e5efc0154383eec3451605cef
+      internalID: -1689769398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_50
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 113
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a08db025eb45d94aafbbd155d3286c6
+      internalID: -551177521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_51
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 112
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc9da938c42f6284dbc2a70563e812a5
+      internalID: -357276656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_52
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 113
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d043bc4c4267e4ba20e75ef4c5f577
+      internalID: 700379204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_53
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 112
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c687ad7dca9d094e9eeb488fb3880fb
+      internalID: 20054156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_54
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 113
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff4e78f48211fe4e86671080b805192
+      internalID: 12527355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 112
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe4b67b4c0d60546ac12be9c4556cf3
+      internalID: -256573537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_56
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 113
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2631cdcc80c254da0982f7f73c6045
+      internalID: 1957125376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_57
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 112
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a497add5bcd4ae44b6c24262ed83774
+      internalID: -364097608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_58
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 113
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d8272433cb9c0448cf59f10c3dbe74
+      internalID: 116193667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_59
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 112
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f16e88a77da8d4abbce0ce615b5cba
+      internalID: 1379240070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 66
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0df806d2c05cc428faed6b73b0031d
+      internalID: 1016126745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_61
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 64
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9a12ec63881974c89688bed9390914
+      internalID: -1050378317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_62
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 66
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0993a8eb28cc864f8cc79c90aa30a6f
+      internalID: 1281340219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_63
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 64
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10025bd8226199d4680e1da75871dd53
+      internalID: -1996471644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_64
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 66
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a83b4489fcf5c4794ce2cfab19d6af
+      internalID: 1431366092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_65
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 64
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35494ec6d32aac648b8cbdcc67304b2c
+      internalID: -1009041660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_66
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 66
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59e5cac3f4ee5143aeb46c2dbc385f9
+      internalID: 317923275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_67
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 64
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5225581202e367642bc5a8589c0975ce
+      internalID: 1157071162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_68
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 66
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60303c7ff407bff4bad8d8c561dec046
+      internalID: 1893137400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_69
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 64
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa636820c8601bf4199d6b600b9fcd66
+      internalID: -370017222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_70
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 16
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9426c89d83cd6e40bdff31f7924ccfc
+      internalID: -1153508567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_71
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 15
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7e938fd4d34a7419595b5d8953895e
+      internalID: 2055700290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_72
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 16
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c1ed0a90469f34da73838ce61b5ae0
+      internalID: 601642832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_73
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 15
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ceac5a59548c53498c86427c9de4478
+      internalID: 1637227448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_74
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 16
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528d3c3b09ea11344b06517d05e90929
+      internalID: -824194139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_75
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 15
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b5514c4d2382f428156043538d6009
+      internalID: -2050018045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_76
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 16
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f81c435260280a40a1870b6ccbe7fb4
+      internalID: -1986042330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_77
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 15
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ae02fa9a6140e4c9e7372ae0e46103
+      internalID: -1210854641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_78
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 16
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e2199daf657a948915dead44b1f88f
+      internalID: 1748294369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Charge-Anim_79
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 15
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c404b18ac28284a8e1dd90b73e1e18
+      internalID: -1182700327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Charge-Anim_0: 669461968
+      Charge-Anim_1: -719849495
+      Charge-Anim_10: -802933078
+      Charge-Anim_11: 664262216
+      Charge-Anim_12: -1726161380
+      Charge-Anim_13: -1368861699
+      Charge-Anim_14: -824985493
+      Charge-Anim_15: 1264480691
+      Charge-Anim_16: -1212534111
+      Charge-Anim_17: 228586965
+      Charge-Anim_18: 192322627
+      Charge-Anim_19: 643381843
+      Charge-Anim_2: 1031561301
+      Charge-Anim_20: 1439015986
+      Charge-Anim_21: -571852862
+      Charge-Anim_22: -1288676253
+      Charge-Anim_23: 2098321461
+      Charge-Anim_24: -2024375043
+      Charge-Anim_25: 1487555419
+      Charge-Anim_26: -931663083
+      Charge-Anim_27: 2079837792
+      Charge-Anim_28: -1439524444
+      Charge-Anim_29: -1230968380
+      Charge-Anim_3: 1137942714
+      Charge-Anim_30: 1687911260
+      Charge-Anim_31: -501321119
+      Charge-Anim_32: 1473398422
+      Charge-Anim_33: 602840964
+      Charge-Anim_34: 706741549
+      Charge-Anim_35: -100736119
+      Charge-Anim_36: -652992850
+      Charge-Anim_37: -932876417
+      Charge-Anim_38: 1683556317
+      Charge-Anim_39: -1481598705
+      Charge-Anim_4: 176212563
+      Charge-Anim_40: 847642022
+      Charge-Anim_41: 31707504
+      Charge-Anim_42: -1372392631
+      Charge-Anim_43: -556111186
+      Charge-Anim_44: 1375060119
+      Charge-Anim_45: -1803231319
+      Charge-Anim_46: 839438464
+      Charge-Anim_47: 1789221821
+      Charge-Anim_48: 106868614
+      Charge-Anim_49: -1689769398
+      Charge-Anim_5: -524851506
+      Charge-Anim_50: -551177521
+      Charge-Anim_51: -357276656
+      Charge-Anim_52: 700379204
+      Charge-Anim_53: 20054156
+      Charge-Anim_54: 12527355
+      Charge-Anim_55: -256573537
+      Charge-Anim_56: 1957125376
+      Charge-Anim_57: -364097608
+      Charge-Anim_58: 116193667
+      Charge-Anim_59: 1379240070
+      Charge-Anim_6: 258651547
+      Charge-Anim_60: 1016126745
+      Charge-Anim_61: -1050378317
+      Charge-Anim_62: 1281340219
+      Charge-Anim_63: -1996471644
+      Charge-Anim_64: 1431366092
+      Charge-Anim_65: -1009041660
+      Charge-Anim_66: 317923275
+      Charge-Anim_67: 1157071162
+      Charge-Anim_68: 1893137400
+      Charge-Anim_69: -370017222
+      Charge-Anim_7: 206689904
+      Charge-Anim_70: -1153508567
+      Charge-Anim_71: 2055700290
+      Charge-Anim_72: 601642832
+      Charge-Anim_73: 1637227448
+      Charge-Anim_74: -824194139
+      Charge-Anim_75: -2050018045
+      Charge-Anim_76: -1986042330
+      Charge-Anim_77: -1210854641
+      Charge-Anim_78: 1748294369
+      Charge-Anim_79: -1182700327
+      Charge-Anim_8: 994719379
+      Charge-Anim_9: -711866995
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

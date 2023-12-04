@@ -1,0 +1,2415 @@
+fileFormatVersion: 2
+guid: 485047b79eed50743bab999b789f9dba
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Strike-Anim_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 653
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c3e1d9b45a4e44995798fc740ea881
+      internalID: -1676528388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 655
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1715f5d662012e4eaa875563dd627b5
+      internalID: 307373905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 660
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e642dd61d47104ea58f1e892a2278f
+      internalID: 1482620565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_3
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 657
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b470cf1e1b1e8447906da739f54d1d6
+      internalID: 1947311351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_4
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 651
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e906f2b2c1d1e0d458b64131de1ecfee
+      internalID: -1929368186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 635
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7b41ec46daaee4488063bbf2dc6b7d
+      internalID: 77750334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_6
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 635
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061de7c77d2afae4fbd774e323534c4a
+      internalID: 1637663318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_7
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 635
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad003bd1c17f8940baed97c756ad921
+      internalID: -338419023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_8
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 635
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605d40625a9739d41aa1676c05fd44d0
+      internalID: -1526625498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_9
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 635
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200b7f2742d7c5540898aa0f5d8e110b
+      internalID: -310641477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_10
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 635
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67401e54b3bbc3448012dffad2640ee
+      internalID: 182466489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_11
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 644
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f042ccf8166cf4a9110e2bfe460273
+      internalID: 426770835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_12
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 649
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beab3c05a90a4a241b52fc04c425ff6b
+      internalID: -1093925620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_13
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 565
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bd4efb8bb693a438b6703024185605
+      internalID: -537188931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_14
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 567
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f188c5a10227ab14b8d94082e12370e6
+      internalID: 192225266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_15
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 572
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1e7118bbe9dce4197d12ecd628dfa5
+      internalID: 1665197125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_16
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 569
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c3287a5d4fb71488b7994754fd3bcf
+      internalID: 1376565553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_17
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 563
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b190448a0fce67489d4383716bf0e80
+      internalID: 897143436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_18
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 556
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7c438f501bd2d4a9b6508853b1f778
+      internalID: 1947655942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_19
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 561
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176e35ccbd8548c4a832531b81a1c330
+      internalID: 223453132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_20
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 545
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8c08de0027c0740ac38a7dd894a77c
+      internalID: 1136003614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_21
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 544
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de1b3f5c7da3744389f5e1face7907d
+      internalID: -449447018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_22
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 545
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8b3419376f37a499aca0ecdf1aaf26
+      internalID: 1635424886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_23
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 544
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f34badd9f0aa247ac045c547284eda
+      internalID: 1793405139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_24
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 545
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdbefd2430f6864e9af2e7d60518a8d
+      internalID: -1714933410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_25
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 544
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5d09f523dbe4749b8b0cf930a0fe62
+      internalID: 1055311947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_26
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 478
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6580c64f57da92e4191ecaa6e522c6ff
+      internalID: -28719752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_27
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 478
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bdc3f6e9c7ee2742b5eb0a593031811
+      internalID: -1662680038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_28
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 478
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5241ae30570f8c24d97a2c49e566f165
+      internalID: 789722651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_29
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 478
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7c195c30e16444db1f8b3543fa3559
+      internalID: 142641930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_30
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 478
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706dc2218a9658b4cb93e36c629021b3
+      internalID: 1240413001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_31
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 476
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3672473bf92f61849b82ff9daba51250
+      internalID: 1421303223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_32
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 476
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0bcf9d51773d345bfe03073c02e5b9
+      internalID: 1410052722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_33
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 475
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51865c37dde868547a47259be04ee024
+      internalID: -1527231055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_34
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 476
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfdebddd878f6b448c93adfcd29a6bb
+      internalID: -1996741763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_35
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 475
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc34657f05bec74ba751dfca6677226
+      internalID: -1805645817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_36
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 476
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c623859f4ddc8441a202d3b1e7300c4
+      internalID: -254665846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_37
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 478
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95598fcf253d2cd47aec1c59e82d4832
+      internalID: 1116145490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_38
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 478
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a56ecdad41e001499079133826b484c
+      internalID: 2088718861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_39
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 385
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47b2b39bab36124da35ae906ce21d9a
+      internalID: -1339707426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_40
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 381
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ca6c332b84abf4aa803efa318e8fe4
+      internalID: -466337591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_41
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 384
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a86b63a2e630f14ead713ff4e52a75d
+      internalID: -1421570124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_42
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 393
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6350c9ad49c7ff84aae8f8551a804231
+      internalID: -2120571575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_43
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 407
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411ede34df9fdbb4ea9d6b0cdf75ae61
+      internalID: 583020146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_44
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 408
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff42d760997f4e4584d2c37025a0111
+      internalID: 1445910970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_45
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 407
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075a39f1612c7d140b898224223bd7ce
+      internalID: 116386404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_46
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 408
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e83d11125a954e4b904167503bd65bb
+      internalID: -778922900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_47
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 407
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f97c9e7b0f9cf46b2ee96164af1dc2
+      internalID: -1302941386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_48
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 408
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6e4af1bfb268f46b0662e4cdbdde17
+      internalID: 335666000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_49
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 397
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f2fe85d8d372c4ba91a3165b14be41
+      internalID: 1242990705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_50
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 391
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e63059788dbb3e4499eab5716cce1d0
+      internalID: -556179800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_51
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 382
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e94ef52f89c96246971f814df5b048d
+      internalID: 2005097289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_52
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 296
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f427a621928bc46b8b26725877dc38
+      internalID: 1408904351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_53
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 294
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eae31905d90404498bb9ed8d5a5f3ee
+      internalID: 786980835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_54
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 294
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6771da9ffb0947545a1288b1cc7a2658
+      internalID: 1173685892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_55
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 297
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5c8b2c0f563db540b6b38ed8bf523f8
+      internalID: -1872160323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_56
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 306
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca6dcd7523d29e42bde543136acd44e
+      internalID: -771428327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_57
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 318
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdb28943ffd007449933f89aba8e861
+      internalID: -161184969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_58
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 319
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e2e1d5a5da5db4695197d0b949aa81
+      internalID: -2102371909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_59
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 319
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ef808c1c0ac0040a06e5234760692b
+      internalID: 1177485060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_60
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 319
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c756fc12a7852428d1df5d2dcf88c2
+      internalID: 1483333555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_61
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 319
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f0ee79abaa78924b96794195edacd8e
+      internalID: 1939671204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_62
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 319
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ddd5ad00364a0649b3ec4bb19d7517b
+      internalID: 1246510412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_63
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 310
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caed875907b59394da5cfcc1e16981b4
+      internalID: 961953187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_64
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 304
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e35f6889ebb2cf419d35c5cbe0d98d7
+      internalID: -927305296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_65
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 209
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7397cb302da025c4d8f31ad5ab11a126
+      internalID: -1054154350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_66
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 205
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543152c8ac91ae541b5cff62b41eae28
+      internalID: -654332371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_67
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 208
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c449da3fd2fafe648b020bb13454fd4a
+      internalID: -1541366910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_68
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 217
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cf631d7b4dfe247a0d77e386db5adc
+      internalID: 1963380513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_69
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 231
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850fc0e10fa4d9c47a108b728d385308
+      internalID: -431493029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_70
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 232
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2152468b6003a45b52335c92a81650
+      internalID: -253362197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_71
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 231
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4410566ea4561740a68eb002cac2b86
+      internalID: 1686124459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_72
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 232
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468c792bdfbfbbc4c8909cfeee0e77fd
+      internalID: 708843627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_73
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 231
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d81b78245c0714cacb3f7f87e80bff
+      internalID: -55703447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_74
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 232
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 567e75068bd70ab47a49d53b46fa1aef
+      internalID: 1568009374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_75
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 221
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e526cbec6cd0c044a307b4339262523
+      internalID: -753438389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_76
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 215
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8016832a03d3647b7b83199e70e99c
+      internalID: 986081419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_77
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 206
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c2530709ae51f47a46482c9d198783
+      internalID: 1591828174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_78
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 126
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a9cc204709ab147a8038e3854af02a
+      internalID: -287002829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_79
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 126
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acde2260a92a7b40893bff17d3c8e93
+      internalID: 2046689834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_80
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 126
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1298c228dc776c41b818b9a647d84e2
+      internalID: -2015459635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_81
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 126
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfc1e849a06cbd469362b9d1013b9c6
+      internalID: 2147393579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_82
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 126
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06092f749d5e2b469d914237d0b42c7
+      internalID: -1379504620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_83
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 124
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31e0fa00c84d054f968b343ded9edbe
+      internalID: 1453859722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_84
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 124
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4138a6dd9170f848a4574ac43428256
+      internalID: 162646933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_85
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 123
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0670885d396427d4da9ae581e3e49a95
+      internalID: -180299892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_86
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 124
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d50f8d4aa941540b52f530cb6c50fb
+      internalID: 80564132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_87
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 123
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3718eecb72d8dbe4b94988b5e1ace83f
+      internalID: 1941488561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_88
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 124
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32b764511f8df6a4d91d1f43d2ddd118
+      internalID: -678994966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_89
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 126
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041a57efd8124564bad6d32aa2928dc0
+      internalID: 838367344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_90
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 126
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24b797b950eb26458598f3a2b001fec
+      internalID: -1913730163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_91
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 37
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffdd86ee18eb964a864ee7391a00893
+      internalID: -1108021319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_92
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 39
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667ac6eb45ffde44d9da7e6f40e3e93a
+      internalID: -913398937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_93
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 44
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367799770b914d448917809e70c071dc
+      internalID: -355936720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_94
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 41
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e871b9f0e13606c4ea83374cff9ad24a
+      internalID: -546878831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_95
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 35
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cab02ff03329a04ca1037d7c4b3ff7e
+      internalID: 905304125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_96
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 28
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704a868e10725ab4482b4bdb3dbabff9
+      internalID: -1223867827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_97
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 33
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f39d1bde0244e4fa1392982005dfbc
+      internalID: 1370625213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_98
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 15
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cca60f19652daf49b7a28baf0e1bc8b
+      internalID: 1912105395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_99
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 16
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81976f910e18c2041989d976ff42e531
+      internalID: 1077495594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_100
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 17
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39df915d694ac324b87630431b5bd522
+      internalID: 1856785439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_101
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 16
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b4b6ae19dee7b428937c869bd4b822
+      internalID: -1086381372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_102
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 17
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 470b66cf7ee77eb4daf36c90788f9d6e
+      internalID: 510152965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Strike-Anim_103
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 16
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b714c0cf584c5448f5b9a147033b1c
+      internalID: 2072978628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Strike-Anim_0: -1676528388
+      Strike-Anim_1: 307373905
+      Strike-Anim_10: 182466489
+      Strike-Anim_100: 1856785439
+      Strike-Anim_101: -1086381372
+      Strike-Anim_102: 510152965
+      Strike-Anim_103: 2072978628
+      Strike-Anim_11: 426770835
+      Strike-Anim_12: -1093925620
+      Strike-Anim_13: -537188931
+      Strike-Anim_14: 192225266
+      Strike-Anim_15: 1665197125
+      Strike-Anim_16: 1376565553
+      Strike-Anim_17: 897143436
+      Strike-Anim_18: 1947655942
+      Strike-Anim_19: 223453132
+      Strike-Anim_2: 1482620565
+      Strike-Anim_20: 1136003614
+      Strike-Anim_21: -449447018
+      Strike-Anim_22: 1635424886
+      Strike-Anim_23: 1793405139
+      Strike-Anim_24: -1714933410
+      Strike-Anim_25: 1055311947
+      Strike-Anim_26: -28719752
+      Strike-Anim_27: -1662680038
+      Strike-Anim_28: 789722651
+      Strike-Anim_29: 142641930
+      Strike-Anim_3: 1947311351
+      Strike-Anim_30: 1240413001
+      Strike-Anim_31: 1421303223
+      Strike-Anim_32: 1410052722
+      Strike-Anim_33: -1527231055
+      Strike-Anim_34: -1996741763
+      Strike-Anim_35: -1805645817
+      Strike-Anim_36: -254665846
+      Strike-Anim_37: 1116145490
+      Strike-Anim_38: 2088718861
+      Strike-Anim_39: -1339707426
+      Strike-Anim_4: -1929368186
+      Strike-Anim_40: -466337591
+      Strike-Anim_41: -1421570124
+      Strike-Anim_42: -2120571575
+      Strike-Anim_43: 583020146
+      Strike-Anim_44: 1445910970
+      Strike-Anim_45: 116386404
+      Strike-Anim_46: -778922900
+      Strike-Anim_47: -1302941386
+      Strike-Anim_48: 335666000
+      Strike-Anim_49: 1242990705
+      Strike-Anim_5: 77750334
+      Strike-Anim_50: -556179800
+      Strike-Anim_51: 2005097289
+      Strike-Anim_52: 1408904351
+      Strike-Anim_53: 786980835
+      Strike-Anim_54: 1173685892
+      Strike-Anim_55: -1872160323
+      Strike-Anim_56: -771428327
+      Strike-Anim_57: -161184969
+      Strike-Anim_58: -2102371909
+      Strike-Anim_59: 1177485060
+      Strike-Anim_6: 1637663318
+      Strike-Anim_60: 1483333555
+      Strike-Anim_61: 1939671204
+      Strike-Anim_62: 1246510412
+      Strike-Anim_63: 961953187
+      Strike-Anim_64: -927305296
+      Strike-Anim_65: -1054154350
+      Strike-Anim_66: -654332371
+      Strike-Anim_67: -1541366910
+      Strike-Anim_68: 1963380513
+      Strike-Anim_69: -431493029
+      Strike-Anim_7: -338419023
+      Strike-Anim_70: -253362197
+      Strike-Anim_71: 1686124459
+      Strike-Anim_72: 708843627
+      Strike-Anim_73: -55703447
+      Strike-Anim_74: 1568009374
+      Strike-Anim_75: -753438389
+      Strike-Anim_76: 986081419
+      Strike-Anim_77: 1591828174
+      Strike-Anim_78: -287002829
+      Strike-Anim_79: 2046689834
+      Strike-Anim_8: -1526625498
+      Strike-Anim_80: -2015459635
+      Strike-Anim_81: 2147393579
+      Strike-Anim_82: -1379504620
+      Strike-Anim_83: 1453859722
+      Strike-Anim_84: 162646933
+      Strike-Anim_85: -180299892
+      Strike-Anim_86: 80564132
+      Strike-Anim_87: 1941488561
+      Strike-Anim_88: -678994966
+      Strike-Anim_89: 838367344
+      Strike-Anim_9: -310641477
+      Strike-Anim_90: -1913730163
+      Strike-Anim_91: -1108021319
+      Strike-Anim_92: -913398937
+      Strike-Anim_93: -355936720
+      Strike-Anim_94: -546878831
+      Strike-Anim_95: 905304125
+      Strike-Anim_96: -1223867827
+      Strike-Anim_97: 1370625213
+      Strike-Anim_98: 1912105395
+      Strike-Anim_99: 1077495594
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

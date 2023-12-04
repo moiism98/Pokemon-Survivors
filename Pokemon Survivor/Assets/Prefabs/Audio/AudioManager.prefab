@@ -1,0 +1,325 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4945758837937086643
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3351290337495997261}
+  - component: {fileID: 846373786394078469}
+  m_Layer: 0
+  m_Name: AudioManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3351290337495997261
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4945758837937086643}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &846373786394078469
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4945758837937086643}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5149232d821a63f49a2db4b7f577263a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audioMixer: {fileID: 24100000, guid: 67ef4d51f21d29244948e0b0f5a2f1b6, type: 2}
+  mixerGroup: {fileID: 24300002, guid: 67ef4d51f21d29244948e0b0f5a2f1b6, type: 2}
+  sounds:
+  - source: {fileID: 0}
+    name: Main Menu Theme
+    clip: {fileID: 8300000, guid: 4dc6f1b5f7452144983823b42fca36d4, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 1
+  - source: {fileID: 0}
+    name: Tutorial Theme
+    clip: {fileID: 8300000, guid: 4bf1ad62128daea4e8c74ef467012b82, type: 3}
+    volume: 0.75
+    pitch: 1
+    loop: 1
+  - source: {fileID: 0}
+    name: Cerulean Cave Theme
+    clip: {fileID: 8300000, guid: 206edf88b51a596479cb36bb72850bf1, type: 3}
+    volume: 0.75
+    pitch: 1
+    loop: 1
+  - source: {fileID: 0}
+    name: Lush Jungle Theme
+    clip: {fileID: 8300000, guid: f40f1de28464fd54187725e060313277, type: 3}
+    volume: 0.75
+    pitch: 1
+    loop: 1
+  - source: {fileID: 0}
+    name: AranciaBerry
+    clip: {fileID: 8300000, guid: 1fd75f602e0c8ef448121f39e92a4d62, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Boss
+    clip: {fileID: 8300000, guid: 4b060d7bd63ccdb49bcfa14a5bc9d909, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: BulkUp
+    clip: {fileID: 8300000, guid: 85c50f75d1086b64cafb385f94889227, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: OnButton
+    clip: {fileID: 8300000, guid: fd88055877d03a940b31a2d3f5e3ad6c, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: PressButton
+    clip: {fileID: 8300000, guid: b77a2934b4b6fef4e9dfab0174c96114, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: DestroyEnemies
+    clip: {fileID: 8300000, guid: 3081d8e65d0b7b244a89e5c00aac2962, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: DizzyPunch
+    clip: {fileID: 8300000, guid: 2d37fc65bbb7a0d4983854a394f8b286, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Eat
+    clip: {fileID: 8300000, guid: 523a9b2c415b9d44887d0a4c447ee89a, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Heal
+    clip: {fileID: 8300000, guid: dc7848858b61ecb408bce513a683890b, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: ItemHeal
+    clip: {fileID: 8300000, guid: 2cfd434064c3fbf47adc3959ad17b31b, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: ElectrodeTrap
+    clip: {fileID: 8300000, guid: e210da07789d42e43ad33f30aedbe23b, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Enhanced
+    clip: {fileID: 8300000, guid: c3969da36e725fe4cbd4517c7fdb120b, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Exp
+    clip: {fileID: 8300000, guid: 71af42bbaca9ce242b168c960f28720c, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: GameOver
+    clip: {fileID: 8300000, guid: 81a374d704f150141b65e7ee865f8548, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: GrimerTrap
+    clip: {fileID: 8300000, guid: 4ea7b3ecf6b18e544a31ff088906279e, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Gumi
+    clip: {fileID: 8300000, guid: e274dd07f2633ab40851a0bb6faf0854, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Horde
+    clip: {fileID: 8300000, guid: 2e303e0b9aa963249bc5c24becd20064, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: LevelUp
+    clip: {fileID: 8300000, guid: 2db0bac9755977b4d983364042cc1503, type: 3}
+    volume: 0.5
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: MagicZone
+    clip: {fileID: 8300000, guid: c27982894cdd225458db1c6893509dfb, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Money
+    clip: {fileID: 8300000, guid: 13e0d7af16653fc41b673cdfc2f1e1b5, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: PsychoCut
+    clip: {fileID: 8300000, guid: f7ec82f12b5aff44b97f6b54c1293068, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Recovery
+    clip: {fileID: 8300000, guid: a3f59211d99856343a8c9eddf0ad7d6a, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: ScaryFace
+    clip: {fileID: 8300000, guid: 5d0f17a370f8cec42a57f84d7275ff4f, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: SlowTrap
+    clip: {fileID: 8300000, guid: 91f6a38c054135c48b3402db96f9e1b3, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Summoner
+    clip: {fileID: 8300000, guid: 382c0aab733704f419f2c0bea983baaf, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Swift
+    clip: {fileID: 8300000, guid: be676e4384575424c821d11b4824ff6b, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: SystemDialog
+    clip: {fileID: 8300000, guid: aee9d201390ae7f4c9d4a77c0398822b, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Thunder
+    clip: {fileID: 8300000, guid: 8ec3ff4a7442c4b4581a7e27c6d4f6c6, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Thunderbolt
+    clip: {fileID: 8300000, guid: 7125a133c754e774d9bb26e83ba9ef27, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Trap
+    clip: {fileID: 8300000, guid: b67e07de5ed927444982bc05f749181a, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: TreasureChest
+    clip: {fileID: 8300000, guid: 56f8f5949601bdd48a759f30542e8994, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Turret
+    clip: {fileID: 8300000, guid: 6249b55ec47005c4baaf966c28bc55e6, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Upgrade
+    clip: {fileID: 8300000, guid: d778a1b451e2ea84e8b1326253027b20, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: VoltorbTrap
+    clip: {fileID: 8300000, guid: 0075d74ee5ad31c46963626c7b8e23cf, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Stinger
+    clip: {fileID: 8300000, guid: de08f58afc6902348a4fae22bafce351, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: PoisonTrap
+    clip: {fileID: 8300000, guid: 0c2cd69148c4d5e4a99540b006b27bbb, type: 3}
+    volume: 1
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Rocks
+    clip: {fileID: 8300000, guid: 4e6a9276ee20daa47b468e83b511531a, type: 3}
+    volume: 0.75
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Gem
+    clip: {fileID: 8300000, guid: 2d4f78eabfaddf94bb3995bbfd8429dd, type: 3}
+    volume: 0.75
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Sell Items
+    clip: {fileID: 8300000, guid: 1b716a9e2d15dc64eb4346eb78408269, type: 3}
+    volume: 0.75
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Water
+    clip: {fileID: 8300000, guid: 01385597fac4dab47a6d114f22661164, type: 3}
+    volume: 0.75
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Dark Crater Theme
+    clip: {fileID: 8300000, guid: 539e51733827177498b0868b03c58dbb, type: 3}
+    volume: 0.75
+    pitch: 1
+    loop: 0
+  - source: {fileID: 0}
+    name: Poison Damage
+    clip: {fileID: 8300000, guid: 6c24f771be82fe3449f67df9a511999e, type: 3}
+    volume: 0.75
+    pitch: 1
+    loop: 0

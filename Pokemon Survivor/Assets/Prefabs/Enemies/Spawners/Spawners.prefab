@@ -1,0 +1,2601 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8130042653529623270
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2747249607688262596}
+  m_Layer: 8
+  m_Name: Spawners
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2747249607688262596
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8130042653529623270}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1420870176858234812}
+  - {fileID: 5426682089416762608}
+  - {fileID: 1202024636943521015}
+  - {fileID: 3184492573624753061}
+  - {fileID: 4000161149230521052}
+  - {fileID: 5516435081979482581}
+  - {fileID: 1672272743075443355}
+  - {fileID: 7508719813547736609}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1116402106443677460
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2747249607688262596}
+    m_Modifications:
+    - target: {fileID: 664999742859316838, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_Name
+      value: EnemySpawner
+      objectReference: {fileID: 0}
+    - target: {fileID: 664999742859316838, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawnTime
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.size
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[1].pokemon
+      value: 
+      objectReference: {fileID: 8107614032175769407, guid: 974e48fd7edd46b47ab95c936f4c2e2a, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[2].pokemon
+      value: 
+      objectReference: {fileID: 2462149267723117659, guid: f4a149d907f52834c901f64b2bb37806, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[3].pokemon
+      value: 
+      objectReference: {fileID: 2919629798070764502, guid: 6035a5a095fec24458ac082e6b4d8ccd, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[4].pokemon
+      value: 
+      objectReference: {fileID: 5859182314905147654, guid: a6739a1b50d8de14c81f875b487330b9, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[5].pokemon
+      value: 
+      objectReference: {fileID: 8436785115061688122, guid: 45d18483cf774b943baae1b01ef23248, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[6].pokemon
+      value: 
+      objectReference: {fileID: 7228750743299148466, guid: 0a9cb48866c6e4c44942b016cd460a3f, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[7].pokemon
+      value: 
+      objectReference: {fileID: 2008735864370272206, guid: 83c550800fac51844be2f566c2272b32, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[8].pokemon
+      value: 
+      objectReference: {fileID: 4770963905605017312, guid: 82c9251077560164ea3166a1296f9529, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[9].pokemon
+      value: 
+      objectReference: {fileID: 3383137935171026696, guid: aadfa9a9d0e67ec45bb2699f8bdb55d7, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[10].pokemon
+      value: 
+      objectReference: {fileID: 2983212329231091078, guid: 1385c6dcaa261844893546775c09a4df, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[11].pokemon
+      value: 
+      objectReference: {fileID: 3821990187518561293, guid: 74f2c68271b93c843a851d16d593f615, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[12].pokemon
+      value: 
+      objectReference: {fileID: 841825674493411159, guid: 06877a21bffc35b4abf4a0297f6ce33c, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[13].pokemon
+      value: 
+      objectReference: {fileID: 2297492885902724330, guid: d211e6dd1f9d73d469f20baae097e9d6, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[14].pokemon
+      value: 
+      objectReference: {fileID: 5659114568520010405, guid: 94fe23b8bab6d2344967bb4e1138a4e1, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[15].pokemon
+      value: 
+      objectReference: {fileID: 1247457425350796882, guid: 61cbe7b6bd266aa45ac4d0bf1b585146, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[16].pokemon
+      value: 
+      objectReference: {fileID: 6185210864497084352, guid: f6fd70cf420262e4db7d2517ed29dd02, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[17].pokemon
+      value: 
+      objectReference: {fileID: 2728738018169964488, guid: 676892c7f42b87b4b9e1a78d23be806f, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[18].pokemon
+      value: 
+      objectReference: {fileID: 7093238389040582835, guid: e1de67aa84d60924495e2f56dbd3c77d, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[19].pokemon
+      value: 
+      objectReference: {fileID: 9151538305332579617, guid: 5cc542e2408075a4b975dc61f2532e0a, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[20].pokemon
+      value: 
+      objectReference: {fileID: 3471879548525585502, guid: d7df8a3a8f79fa54fa08d604a03a592b, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[21].pokemon
+      value: 
+      objectReference: {fileID: 6258284383581481598, guid: 38846890e732e424d8145c10cff4cfe1, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[22].pokemon
+      value: 
+      objectReference: {fileID: 4652604583606897372, guid: 40fe62275d95e4e4b8331ac0bb930985, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[23].pokemon
+      value: 
+      objectReference: {fileID: 3537328444751546945, guid: f27955ac35f67c543bfc7d9f86d24ed7, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[24].pokemon
+      value: 
+      objectReference: {fileID: 2792255201850806444, guid: 22611013575625646b4ce421c713d858, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[25].pokemon
+      value: 
+      objectReference: {fileID: 3517897199951265471, guid: d29309b7e2ba53d4e97051995accf83f, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[26].pokemon
+      value: 
+      objectReference: {fileID: 4083750207895447841, guid: a5f0f4248d6909043b452f17a647bc06, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[27].pokemon
+      value: 
+      objectReference: {fileID: 1599775907543353327, guid: cb6faa7ba53b7604d8ede7f67e183f64, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[28].pokemon
+      value: 
+      objectReference: {fileID: 4756881289237347388, guid: 50f8ebfc7e6c02447a492f323afc1b94, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[29].pokemon
+      value: 
+      objectReference: {fileID: 2042861511256706471, guid: 5f120756763158747b4d80e48707ca0b, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[30].pokemon
+      value: 
+      objectReference: {fileID: 5372640379802872170, guid: a314ff33f2cb94b4f8a31cf3381687f9, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[1].spawnProbability
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[2].spawnProbability
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[3].spawnProbability
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[4].spawnProbability
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[5].spawnProbability
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[6].spawnProbability
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[7].spawnProbability
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[8].spawnProbability
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[9].spawnProbability
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[10].spawnProbability
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[11].spawnProbability
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[12].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[13].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[14].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[15].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[16].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[17].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[18].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[19].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[20].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[21].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[22].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[23].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[24].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[25].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[26].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[27].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[28].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[29].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[30].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+--- !u!4 &4000161149230521052 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+  m_PrefabInstance: {fileID: 1116402106443677460}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &1498778993458118253
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2747249607688262596}
+    m_Modifications:
+    - target: {fileID: 664999742859316838, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_Name
+      value: EnemySpawner
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawnTime
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.size
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[1].pokemon
+      value: 
+      objectReference: {fileID: 8107614032175769407, guid: 974e48fd7edd46b47ab95c936f4c2e2a, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[2].pokemon
+      value: 
+      objectReference: {fileID: 2462149267723117659, guid: f4a149d907f52834c901f64b2bb37806, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[3].pokemon
+      value: 
+      objectReference: {fileID: 2919629798070764502, guid: 6035a5a095fec24458ac082e6b4d8ccd, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[4].pokemon
+      value: 
+      objectReference: {fileID: 5859182314905147654, guid: a6739a1b50d8de14c81f875b487330b9, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[5].pokemon
+      value: 
+      objectReference: {fileID: 8436785115061688122, guid: 45d18483cf774b943baae1b01ef23248, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[6].pokemon
+      value: 
+      objectReference: {fileID: 7228750743299148466, guid: 0a9cb48866c6e4c44942b016cd460a3f, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[7].pokemon
+      value: 
+      objectReference: {fileID: 2008735864370272206, guid: 83c550800fac51844be2f566c2272b32, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[8].pokemon
+      value: 
+      objectReference: {fileID: 4770963905605017312, guid: 82c9251077560164ea3166a1296f9529, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[9].pokemon
+      value: 
+      objectReference: {fileID: 3383137935171026696, guid: aadfa9a9d0e67ec45bb2699f8bdb55d7, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[10].pokemon
+      value: 
+      objectReference: {fileID: 2983212329231091078, guid: 1385c6dcaa261844893546775c09a4df, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[11].pokemon
+      value: 
+      objectReference: {fileID: 3821990187518561293, guid: 74f2c68271b93c843a851d16d593f615, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[12].pokemon
+      value: 
+      objectReference: {fileID: 841825674493411159, guid: 06877a21bffc35b4abf4a0297f6ce33c, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[13].pokemon
+      value: 
+      objectReference: {fileID: 2297492885902724330, guid: d211e6dd1f9d73d469f20baae097e9d6, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[14].pokemon
+      value: 
+      objectReference: {fileID: 5659114568520010405, guid: 94fe23b8bab6d2344967bb4e1138a4e1, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[15].pokemon
+      value: 
+      objectReference: {fileID: 1247457425350796882, guid: 61cbe7b6bd266aa45ac4d0bf1b585146, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[16].pokemon
+      value: 
+      objectReference: {fileID: 6185210864497084352, guid: f6fd70cf420262e4db7d2517ed29dd02, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[17].pokemon
+      value: 
+      objectReference: {fileID: 2728738018169964488, guid: 676892c7f42b87b4b9e1a78d23be806f, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[18].pokemon
+      value: 
+      objectReference: {fileID: 7093238389040582835, guid: e1de67aa84d60924495e2f56dbd3c77d, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[19].pokemon
+      value: 
+      objectReference: {fileID: 9151538305332579617, guid: 5cc542e2408075a4b975dc61f2532e0a, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[20].pokemon
+      value: 
+      objectReference: {fileID: 3471879548525585502, guid: d7df8a3a8f79fa54fa08d604a03a592b, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[21].pokemon
+      value: 
+      objectReference: {fileID: 6258284383581481598, guid: 38846890e732e424d8145c10cff4cfe1, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[22].pokemon
+      value: 
+      objectReference: {fileID: 4652604583606897372, guid: 40fe62275d95e4e4b8331ac0bb930985, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[23].pokemon
+      value: 
+      objectReference: {fileID: 3537328444751546945, guid: f27955ac35f67c543bfc7d9f86d24ed7, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[24].pokemon
+      value: 
+      objectReference: {fileID: 2792255201850806444, guid: 22611013575625646b4ce421c713d858, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[25].pokemon
+      value: 
+      objectReference: {fileID: 3517897199951265471, guid: d29309b7e2ba53d4e97051995accf83f, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[26].pokemon
+      value: 
+      objectReference: {fileID: 4083750207895447841, guid: a5f0f4248d6909043b452f17a647bc06, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[27].pokemon
+      value: 
+      objectReference: {fileID: 1599775907543353327, guid: cb6faa7ba53b7604d8ede7f67e183f64, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[28].pokemon
+      value: 
+      objectReference: {fileID: 4756881289237347388, guid: 50f8ebfc7e6c02447a492f323afc1b94, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[29].pokemon
+      value: 
+      objectReference: {fileID: 2042861511256706471, guid: 5f120756763158747b4d80e48707ca0b, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[30].pokemon
+      value: 
+      objectReference: {fileID: 5372640379802872170, guid: a314ff33f2cb94b4f8a31cf3381687f9, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[1].spawnProbability
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[2].spawnProbability
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[3].spawnProbability
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[4].spawnProbability
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[5].spawnProbability
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[6].spawnProbability
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[7].spawnProbability
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[8].spawnProbability
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[9].spawnProbability
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[10].spawnProbability
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[11].spawnProbability
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[12].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[13].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[14].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[15].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[16].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[17].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[18].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[19].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[20].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[21].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[22].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[23].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[24].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[25].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[26].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[27].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[28].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[29].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[30].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+--- !u!4 &3184492573624753061 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+  m_PrefabInstance: {fileID: 1498778993458118253}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2905771308026425663
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2747249607688262596}
+    m_Modifications:
+    - target: {fileID: 664999742859316838, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_Name
+      value: EnemySpawner
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawnTime
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.size
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[1].pokemon
+      value: 
+      objectReference: {fileID: 8107614032175769407, guid: 974e48fd7edd46b47ab95c936f4c2e2a, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[2].pokemon
+      value: 
+      objectReference: {fileID: 2462149267723117659, guid: f4a149d907f52834c901f64b2bb37806, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[3].pokemon
+      value: 
+      objectReference: {fileID: 2919629798070764502, guid: 6035a5a095fec24458ac082e6b4d8ccd, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[4].pokemon
+      value: 
+      objectReference: {fileID: 5859182314905147654, guid: a6739a1b50d8de14c81f875b487330b9, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[5].pokemon
+      value: 
+      objectReference: {fileID: 8436785115061688122, guid: 45d18483cf774b943baae1b01ef23248, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[6].pokemon
+      value: 
+      objectReference: {fileID: 7228750743299148466, guid: 0a9cb48866c6e4c44942b016cd460a3f, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[7].pokemon
+      value: 
+      objectReference: {fileID: 2008735864370272206, guid: 83c550800fac51844be2f566c2272b32, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[8].pokemon
+      value: 
+      objectReference: {fileID: 4770963905605017312, guid: 82c9251077560164ea3166a1296f9529, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[9].pokemon
+      value: 
+      objectReference: {fileID: 3383137935171026696, guid: aadfa9a9d0e67ec45bb2699f8bdb55d7, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[10].pokemon
+      value: 
+      objectReference: {fileID: 2983212329231091078, guid: 1385c6dcaa261844893546775c09a4df, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[11].pokemon
+      value: 
+      objectReference: {fileID: 3821990187518561293, guid: 74f2c68271b93c843a851d16d593f615, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[12].pokemon
+      value: 
+      objectReference: {fileID: 841825674493411159, guid: 06877a21bffc35b4abf4a0297f6ce33c, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[13].pokemon
+      value: 
+      objectReference: {fileID: 2297492885902724330, guid: d211e6dd1f9d73d469f20baae097e9d6, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[14].pokemon
+      value: 
+      objectReference: {fileID: 5659114568520010405, guid: 94fe23b8bab6d2344967bb4e1138a4e1, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[15].pokemon
+      value: 
+      objectReference: {fileID: 1247457425350796882, guid: 61cbe7b6bd266aa45ac4d0bf1b585146, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[16].pokemon
+      value: 
+      objectReference: {fileID: 6185210864497084352, guid: f6fd70cf420262e4db7d2517ed29dd02, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[17].pokemon
+      value: 
+      objectReference: {fileID: 2728738018169964488, guid: 676892c7f42b87b4b9e1a78d23be806f, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[18].pokemon
+      value: 
+      objectReference: {fileID: 7093238389040582835, guid: e1de67aa84d60924495e2f56dbd3c77d, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[19].pokemon
+      value: 
+      objectReference: {fileID: 9151538305332579617, guid: 5cc542e2408075a4b975dc61f2532e0a, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[20].pokemon
+      value: 
+      objectReference: {fileID: 3471879548525585502, guid: d7df8a3a8f79fa54fa08d604a03a592b, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[21].pokemon
+      value: 
+      objectReference: {fileID: 6258284383581481598, guid: 38846890e732e424d8145c10cff4cfe1, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[22].pokemon
+      value: 
+      objectReference: {fileID: 4652604583606897372, guid: 40fe62275d95e4e4b8331ac0bb930985, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[23].pokemon
+      value: 
+      objectReference: {fileID: 3537328444751546945, guid: f27955ac35f67c543bfc7d9f86d24ed7, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[24].pokemon
+      value: 
+      objectReference: {fileID: 2792255201850806444, guid: 22611013575625646b4ce421c713d858, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[25].pokemon
+      value: 
+      objectReference: {fileID: 3517897199951265471, guid: d29309b7e2ba53d4e97051995accf83f, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[26].pokemon
+      value: 
+      objectReference: {fileID: 4083750207895447841, guid: a5f0f4248d6909043b452f17a647bc06, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[27].pokemon
+      value: 
+      objectReference: {fileID: 1599775907543353327, guid: cb6faa7ba53b7604d8ede7f67e183f64, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[28].pokemon
+      value: 
+      objectReference: {fileID: 4756881289237347388, guid: 50f8ebfc7e6c02447a492f323afc1b94, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[29].pokemon
+      value: 
+      objectReference: {fileID: 2042861511256706471, guid: 5f120756763158747b4d80e48707ca0b, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[30].pokemon
+      value: 
+      objectReference: {fileID: 5372640379802872170, guid: a314ff33f2cb94b4f8a31cf3381687f9, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[1].spawnProbability
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[2].spawnProbability
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[3].spawnProbability
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[4].spawnProbability
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[5].spawnProbability
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[6].spawnProbability
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[7].spawnProbability
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[8].spawnProbability
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[9].spawnProbability
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[10].spawnProbability
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[11].spawnProbability
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[12].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[13].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[14].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[15].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[16].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[17].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[18].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[19].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[20].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[21].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[22].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[23].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[24].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[25].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[26].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[27].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[28].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[29].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[30].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+--- !u!4 &1202024636943521015 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+  m_PrefabInstance: {fileID: 2905771308026425663}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3119549198546139764
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2747249607688262596}
+    m_Modifications:
+    - target: {fileID: 664999742859316838, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_Name
+      value: EnemySpawner
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawnTime
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.size
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[1].pokemon
+      value: 
+      objectReference: {fileID: 8107614032175769407, guid: 974e48fd7edd46b47ab95c936f4c2e2a, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[2].pokemon
+      value: 
+      objectReference: {fileID: 2462149267723117659, guid: f4a149d907f52834c901f64b2bb37806, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[3].pokemon
+      value: 
+      objectReference: {fileID: 2919629798070764502, guid: 6035a5a095fec24458ac082e6b4d8ccd, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[4].pokemon
+      value: 
+      objectReference: {fileID: 5859182314905147654, guid: a6739a1b50d8de14c81f875b487330b9, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[5].pokemon
+      value: 
+      objectReference: {fileID: 8436785115061688122, guid: 45d18483cf774b943baae1b01ef23248, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[6].pokemon
+      value: 
+      objectReference: {fileID: 7228750743299148466, guid: 0a9cb48866c6e4c44942b016cd460a3f, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[7].pokemon
+      value: 
+      objectReference: {fileID: 2008735864370272206, guid: 83c550800fac51844be2f566c2272b32, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[8].pokemon
+      value: 
+      objectReference: {fileID: 4770963905605017312, guid: 82c9251077560164ea3166a1296f9529, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[9].pokemon
+      value: 
+      objectReference: {fileID: 3383137935171026696, guid: aadfa9a9d0e67ec45bb2699f8bdb55d7, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[10].pokemon
+      value: 
+      objectReference: {fileID: 2983212329231091078, guid: 1385c6dcaa261844893546775c09a4df, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[11].pokemon
+      value: 
+      objectReference: {fileID: 3821990187518561293, guid: 74f2c68271b93c843a851d16d593f615, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[12].pokemon
+      value: 
+      objectReference: {fileID: 841825674493411159, guid: 06877a21bffc35b4abf4a0297f6ce33c, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[13].pokemon
+      value: 
+      objectReference: {fileID: 2297492885902724330, guid: d211e6dd1f9d73d469f20baae097e9d6, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[14].pokemon
+      value: 
+      objectReference: {fileID: 5659114568520010405, guid: 94fe23b8bab6d2344967bb4e1138a4e1, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[15].pokemon
+      value: 
+      objectReference: {fileID: 1247457425350796882, guid: 61cbe7b6bd266aa45ac4d0bf1b585146, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[16].pokemon
+      value: 
+      objectReference: {fileID: 6185210864497084352, guid: f6fd70cf420262e4db7d2517ed29dd02, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[17].pokemon
+      value: 
+      objectReference: {fileID: 2728738018169964488, guid: 676892c7f42b87b4b9e1a78d23be806f, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[18].pokemon
+      value: 
+      objectReference: {fileID: 7093238389040582835, guid: e1de67aa84d60924495e2f56dbd3c77d, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[19].pokemon
+      value: 
+      objectReference: {fileID: 9151538305332579617, guid: 5cc542e2408075a4b975dc61f2532e0a, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[20].pokemon
+      value: 
+      objectReference: {fileID: 3471879548525585502, guid: d7df8a3a8f79fa54fa08d604a03a592b, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[21].pokemon
+      value: 
+      objectReference: {fileID: 6258284383581481598, guid: 38846890e732e424d8145c10cff4cfe1, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[22].pokemon
+      value: 
+      objectReference: {fileID: 4652604583606897372, guid: 40fe62275d95e4e4b8331ac0bb930985, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[23].pokemon
+      value: 
+      objectReference: {fileID: 3537328444751546945, guid: f27955ac35f67c543bfc7d9f86d24ed7, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[24].pokemon
+      value: 
+      objectReference: {fileID: 2792255201850806444, guid: 22611013575625646b4ce421c713d858, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[25].pokemon
+      value: 
+      objectReference: {fileID: 3517897199951265471, guid: d29309b7e2ba53d4e97051995accf83f, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[26].pokemon
+      value: 
+      objectReference: {fileID: 4083750207895447841, guid: a5f0f4248d6909043b452f17a647bc06, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[27].pokemon
+      value: 
+      objectReference: {fileID: 1599775907543353327, guid: cb6faa7ba53b7604d8ede7f67e183f64, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[28].pokemon
+      value: 
+      objectReference: {fileID: 4756881289237347388, guid: 50f8ebfc7e6c02447a492f323afc1b94, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[29].pokemon
+      value: 
+      objectReference: {fileID: 2042861511256706471, guid: 5f120756763158747b4d80e48707ca0b, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[30].pokemon
+      value: 
+      objectReference: {fileID: 5372640379802872170, guid: a314ff33f2cb94b4f8a31cf3381687f9, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[1].spawnProbability
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[2].spawnProbability
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[3].spawnProbability
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[4].spawnProbability
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[5].spawnProbability
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[6].spawnProbability
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[7].spawnProbability
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[8].spawnProbability
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[9].spawnProbability
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[10].spawnProbability
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[11].spawnProbability
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[12].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[13].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[14].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[15].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[16].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[17].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[18].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[19].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[20].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[21].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[22].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[23].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[24].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[25].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[26].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[27].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[28].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[29].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[30].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+--- !u!4 &1420870176858234812 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+  m_PrefabInstance: {fileID: 3119549198546139764}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3443063080822691667
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2747249607688262596}
+    m_Modifications:
+    - target: {fileID: 664999742859316838, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_Name
+      value: EnemySpawner
+      objectReference: {fileID: 0}
+    - target: {fileID: 664999742859316838, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawnTime
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.size
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[1].pokemon
+      value: 
+      objectReference: {fileID: 8107614032175769407, guid: 974e48fd7edd46b47ab95c936f4c2e2a, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[2].pokemon
+      value: 
+      objectReference: {fileID: 2462149267723117659, guid: f4a149d907f52834c901f64b2bb37806, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[3].pokemon
+      value: 
+      objectReference: {fileID: 2919629798070764502, guid: 6035a5a095fec24458ac082e6b4d8ccd, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[4].pokemon
+      value: 
+      objectReference: {fileID: 5859182314905147654, guid: a6739a1b50d8de14c81f875b487330b9, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[5].pokemon
+      value: 
+      objectReference: {fileID: 8436785115061688122, guid: 45d18483cf774b943baae1b01ef23248, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[6].pokemon
+      value: 
+      objectReference: {fileID: 7228750743299148466, guid: 0a9cb48866c6e4c44942b016cd460a3f, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[7].pokemon
+      value: 
+      objectReference: {fileID: 2008735864370272206, guid: 83c550800fac51844be2f566c2272b32, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[8].pokemon
+      value: 
+      objectReference: {fileID: 4770963905605017312, guid: 82c9251077560164ea3166a1296f9529, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[9].pokemon
+      value: 
+      objectReference: {fileID: 3383137935171026696, guid: aadfa9a9d0e67ec45bb2699f8bdb55d7, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[10].pokemon
+      value: 
+      objectReference: {fileID: 2983212329231091078, guid: 1385c6dcaa261844893546775c09a4df, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[11].pokemon
+      value: 
+      objectReference: {fileID: 3821990187518561293, guid: 74f2c68271b93c843a851d16d593f615, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[12].pokemon
+      value: 
+      objectReference: {fileID: 841825674493411159, guid: 06877a21bffc35b4abf4a0297f6ce33c, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[13].pokemon
+      value: 
+      objectReference: {fileID: 2297492885902724330, guid: d211e6dd1f9d73d469f20baae097e9d6, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[14].pokemon
+      value: 
+      objectReference: {fileID: 5659114568520010405, guid: 94fe23b8bab6d2344967bb4e1138a4e1, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[15].pokemon
+      value: 
+      objectReference: {fileID: 1247457425350796882, guid: 61cbe7b6bd266aa45ac4d0bf1b585146, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[16].pokemon
+      value: 
+      objectReference: {fileID: 6185210864497084352, guid: f6fd70cf420262e4db7d2517ed29dd02, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[17].pokemon
+      value: 
+      objectReference: {fileID: 2728738018169964488, guid: 676892c7f42b87b4b9e1a78d23be806f, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[18].pokemon
+      value: 
+      objectReference: {fileID: 7093238389040582835, guid: e1de67aa84d60924495e2f56dbd3c77d, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[19].pokemon
+      value: 
+      objectReference: {fileID: 9151538305332579617, guid: 5cc542e2408075a4b975dc61f2532e0a, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[20].pokemon
+      value: 
+      objectReference: {fileID: 3471879548525585502, guid: d7df8a3a8f79fa54fa08d604a03a592b, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[21].pokemon
+      value: 
+      objectReference: {fileID: 6258284383581481598, guid: 38846890e732e424d8145c10cff4cfe1, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[22].pokemon
+      value: 
+      objectReference: {fileID: 4652604583606897372, guid: 40fe62275d95e4e4b8331ac0bb930985, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[23].pokemon
+      value: 
+      objectReference: {fileID: 3537328444751546945, guid: f27955ac35f67c543bfc7d9f86d24ed7, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[24].pokemon
+      value: 
+      objectReference: {fileID: 2792255201850806444, guid: 22611013575625646b4ce421c713d858, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[25].pokemon
+      value: 
+      objectReference: {fileID: 3517897199951265471, guid: d29309b7e2ba53d4e97051995accf83f, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[26].pokemon
+      value: 
+      objectReference: {fileID: 4083750207895447841, guid: a5f0f4248d6909043b452f17a647bc06, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[27].pokemon
+      value: 
+      objectReference: {fileID: 1599775907543353327, guid: cb6faa7ba53b7604d8ede7f67e183f64, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[28].pokemon
+      value: 
+      objectReference: {fileID: 4756881289237347388, guid: 50f8ebfc7e6c02447a492f323afc1b94, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[29].pokemon
+      value: 
+      objectReference: {fileID: 2042861511256706471, guid: 5f120756763158747b4d80e48707ca0b, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[30].pokemon
+      value: 
+      objectReference: {fileID: 5372640379802872170, guid: a314ff33f2cb94b4f8a31cf3381687f9, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[1].spawnProbability
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[2].spawnProbability
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[3].spawnProbability
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[4].spawnProbability
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[5].spawnProbability
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[6].spawnProbability
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[7].spawnProbability
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[8].spawnProbability
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[9].spawnProbability
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[10].spawnProbability
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[11].spawnProbability
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[12].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[13].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[14].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[15].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[16].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[17].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[18].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[19].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[20].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[21].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[22].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[23].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[24].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[25].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[26].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[27].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[28].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[29].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[30].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+--- !u!4 &1672272743075443355 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+  m_PrefabInstance: {fileID: 3443063080822691667}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5821316420773190633
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2747249607688262596}
+    m_Modifications:
+    - target: {fileID: 664999742859316838, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_Name
+      value: EnemySpawner
+      objectReference: {fileID: 0}
+    - target: {fileID: 664999742859316838, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawnTime
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.size
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[1].pokemon
+      value: 
+      objectReference: {fileID: 8107614032175769407, guid: 974e48fd7edd46b47ab95c936f4c2e2a, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[2].pokemon
+      value: 
+      objectReference: {fileID: 2462149267723117659, guid: f4a149d907f52834c901f64b2bb37806, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[3].pokemon
+      value: 
+      objectReference: {fileID: 2919629798070764502, guid: 6035a5a095fec24458ac082e6b4d8ccd, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[4].pokemon
+      value: 
+      objectReference: {fileID: 5859182314905147654, guid: a6739a1b50d8de14c81f875b487330b9, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[5].pokemon
+      value: 
+      objectReference: {fileID: 8436785115061688122, guid: 45d18483cf774b943baae1b01ef23248, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[6].pokemon
+      value: 
+      objectReference: {fileID: 7228750743299148466, guid: 0a9cb48866c6e4c44942b016cd460a3f, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[7].pokemon
+      value: 
+      objectReference: {fileID: 2008735864370272206, guid: 83c550800fac51844be2f566c2272b32, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[8].pokemon
+      value: 
+      objectReference: {fileID: 4770963905605017312, guid: 82c9251077560164ea3166a1296f9529, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[9].pokemon
+      value: 
+      objectReference: {fileID: 3383137935171026696, guid: aadfa9a9d0e67ec45bb2699f8bdb55d7, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[10].pokemon
+      value: 
+      objectReference: {fileID: 2983212329231091078, guid: 1385c6dcaa261844893546775c09a4df, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[11].pokemon
+      value: 
+      objectReference: {fileID: 3821990187518561293, guid: 74f2c68271b93c843a851d16d593f615, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[12].pokemon
+      value: 
+      objectReference: {fileID: 841825674493411159, guid: 06877a21bffc35b4abf4a0297f6ce33c, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[13].pokemon
+      value: 
+      objectReference: {fileID: 2297492885902724330, guid: d211e6dd1f9d73d469f20baae097e9d6, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[14].pokemon
+      value: 
+      objectReference: {fileID: 5659114568520010405, guid: 94fe23b8bab6d2344967bb4e1138a4e1, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[15].pokemon
+      value: 
+      objectReference: {fileID: 1247457425350796882, guid: 61cbe7b6bd266aa45ac4d0bf1b585146, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[16].pokemon
+      value: 
+      objectReference: {fileID: 6185210864497084352, guid: f6fd70cf420262e4db7d2517ed29dd02, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[17].pokemon
+      value: 
+      objectReference: {fileID: 2728738018169964488, guid: 676892c7f42b87b4b9e1a78d23be806f, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[18].pokemon
+      value: 
+      objectReference: {fileID: 7093238389040582835, guid: e1de67aa84d60924495e2f56dbd3c77d, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[19].pokemon
+      value: 
+      objectReference: {fileID: 9151538305332579617, guid: 5cc542e2408075a4b975dc61f2532e0a, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[20].pokemon
+      value: 
+      objectReference: {fileID: 3471879548525585502, guid: d7df8a3a8f79fa54fa08d604a03a592b, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[21].pokemon
+      value: 
+      objectReference: {fileID: 6258284383581481598, guid: 38846890e732e424d8145c10cff4cfe1, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[22].pokemon
+      value: 
+      objectReference: {fileID: 4652604583606897372, guid: 40fe62275d95e4e4b8331ac0bb930985, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[23].pokemon
+      value: 
+      objectReference: {fileID: 3537328444751546945, guid: f27955ac35f67c543bfc7d9f86d24ed7, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[24].pokemon
+      value: 
+      objectReference: {fileID: 2792255201850806444, guid: 22611013575625646b4ce421c713d858, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[25].pokemon
+      value: 
+      objectReference: {fileID: 3517897199951265471, guid: d29309b7e2ba53d4e97051995accf83f, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[26].pokemon
+      value: 
+      objectReference: {fileID: 4083750207895447841, guid: a5f0f4248d6909043b452f17a647bc06, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[27].pokemon
+      value: 
+      objectReference: {fileID: 1599775907543353327, guid: cb6faa7ba53b7604d8ede7f67e183f64, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[28].pokemon
+      value: 
+      objectReference: {fileID: 4756881289237347388, guid: 50f8ebfc7e6c02447a492f323afc1b94, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[29].pokemon
+      value: 
+      objectReference: {fileID: 2042861511256706471, guid: 5f120756763158747b4d80e48707ca0b, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[30].pokemon
+      value: 
+      objectReference: {fileID: 5372640379802872170, guid: a314ff33f2cb94b4f8a31cf3381687f9, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[1].spawnProbability
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[2].spawnProbability
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[3].spawnProbability
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[4].spawnProbability
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[5].spawnProbability
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[6].spawnProbability
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[7].spawnProbability
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[8].spawnProbability
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[9].spawnProbability
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[10].spawnProbability
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[11].spawnProbability
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[12].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[13].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[14].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[15].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[16].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[17].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[18].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[19].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[20].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[21].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[22].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[23].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[24].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[25].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[26].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[27].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[28].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[29].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[30].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+--- !u!4 &7508719813547736609 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+  m_PrefabInstance: {fileID: 5821316420773190633}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8336829256546877752
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2747249607688262596}
+    m_Modifications:
+    - target: {fileID: 664999742859316838, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_Name
+      value: EnemySpawner
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawnTime
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.size
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[1].pokemon
+      value: 
+      objectReference: {fileID: 8107614032175769407, guid: 974e48fd7edd46b47ab95c936f4c2e2a, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[2].pokemon
+      value: 
+      objectReference: {fileID: 2462149267723117659, guid: f4a149d907f52834c901f64b2bb37806, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[3].pokemon
+      value: 
+      objectReference: {fileID: 2919629798070764502, guid: 6035a5a095fec24458ac082e6b4d8ccd, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[4].pokemon
+      value: 
+      objectReference: {fileID: 5859182314905147654, guid: a6739a1b50d8de14c81f875b487330b9, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[5].pokemon
+      value: 
+      objectReference: {fileID: 8436785115061688122, guid: 45d18483cf774b943baae1b01ef23248, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[6].pokemon
+      value: 
+      objectReference: {fileID: 7228750743299148466, guid: 0a9cb48866c6e4c44942b016cd460a3f, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[7].pokemon
+      value: 
+      objectReference: {fileID: 2008735864370272206, guid: 83c550800fac51844be2f566c2272b32, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[8].pokemon
+      value: 
+      objectReference: {fileID: 4770963905605017312, guid: 82c9251077560164ea3166a1296f9529, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[9].pokemon
+      value: 
+      objectReference: {fileID: 3383137935171026696, guid: aadfa9a9d0e67ec45bb2699f8bdb55d7, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[10].pokemon
+      value: 
+      objectReference: {fileID: 2983212329231091078, guid: 1385c6dcaa261844893546775c09a4df, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[11].pokemon
+      value: 
+      objectReference: {fileID: 3821990187518561293, guid: 74f2c68271b93c843a851d16d593f615, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[12].pokemon
+      value: 
+      objectReference: {fileID: 841825674493411159, guid: 06877a21bffc35b4abf4a0297f6ce33c, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[13].pokemon
+      value: 
+      objectReference: {fileID: 2297492885902724330, guid: d211e6dd1f9d73d469f20baae097e9d6, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[14].pokemon
+      value: 
+      objectReference: {fileID: 5659114568520010405, guid: 94fe23b8bab6d2344967bb4e1138a4e1, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[15].pokemon
+      value: 
+      objectReference: {fileID: 1247457425350796882, guid: 61cbe7b6bd266aa45ac4d0bf1b585146, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[16].pokemon
+      value: 
+      objectReference: {fileID: 6185210864497084352, guid: f6fd70cf420262e4db7d2517ed29dd02, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[17].pokemon
+      value: 
+      objectReference: {fileID: 2728738018169964488, guid: 676892c7f42b87b4b9e1a78d23be806f, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[18].pokemon
+      value: 
+      objectReference: {fileID: 7093238389040582835, guid: e1de67aa84d60924495e2f56dbd3c77d, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[19].pokemon
+      value: 
+      objectReference: {fileID: 9151538305332579617, guid: 5cc542e2408075a4b975dc61f2532e0a, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[20].pokemon
+      value: 
+      objectReference: {fileID: 3471879548525585502, guid: d7df8a3a8f79fa54fa08d604a03a592b, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[21].pokemon
+      value: 
+      objectReference: {fileID: 6258284383581481598, guid: 38846890e732e424d8145c10cff4cfe1, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[22].pokemon
+      value: 
+      objectReference: {fileID: 4652604583606897372, guid: 40fe62275d95e4e4b8331ac0bb930985, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[23].pokemon
+      value: 
+      objectReference: {fileID: 3537328444751546945, guid: f27955ac35f67c543bfc7d9f86d24ed7, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[24].pokemon
+      value: 
+      objectReference: {fileID: 2792255201850806444, guid: 22611013575625646b4ce421c713d858, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[25].pokemon
+      value: 
+      objectReference: {fileID: 3517897199951265471, guid: d29309b7e2ba53d4e97051995accf83f, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[26].pokemon
+      value: 
+      objectReference: {fileID: 4083750207895447841, guid: a5f0f4248d6909043b452f17a647bc06, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[27].pokemon
+      value: 
+      objectReference: {fileID: 1599775907543353327, guid: cb6faa7ba53b7604d8ede7f67e183f64, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[28].pokemon
+      value: 
+      objectReference: {fileID: 4756881289237347388, guid: 50f8ebfc7e6c02447a492f323afc1b94, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[29].pokemon
+      value: 
+      objectReference: {fileID: 2042861511256706471, guid: 5f120756763158747b4d80e48707ca0b, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[30].pokemon
+      value: 
+      objectReference: {fileID: 5372640379802872170, guid: a314ff33f2cb94b4f8a31cf3381687f9, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[1].spawnProbability
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[2].spawnProbability
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[3].spawnProbability
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[4].spawnProbability
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[5].spawnProbability
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[6].spawnProbability
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[7].spawnProbability
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[8].spawnProbability
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[9].spawnProbability
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[10].spawnProbability
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[11].spawnProbability
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[12].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[13].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[14].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[15].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[16].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[17].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[18].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[19].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[20].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[21].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[22].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[23].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[24].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[25].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[26].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[27].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[28].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[29].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[30].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+--- !u!4 &5426682089416762608 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+  m_PrefabInstance: {fileID: 8336829256546877752}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &8391187870131778589
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 2747249607688262596}
+    m_Modifications:
+    - target: {fileID: 664999742859316838, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_Name
+      value: EnemySpawner
+      objectReference: {fileID: 0}
+    - target: {fileID: 664999742859316838, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawnTime
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.size
+      value: 31
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[1].pokemon
+      value: 
+      objectReference: {fileID: 8107614032175769407, guid: 974e48fd7edd46b47ab95c936f4c2e2a, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[2].pokemon
+      value: 
+      objectReference: {fileID: 2462149267723117659, guid: f4a149d907f52834c901f64b2bb37806, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[3].pokemon
+      value: 
+      objectReference: {fileID: 2919629798070764502, guid: 6035a5a095fec24458ac082e6b4d8ccd, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[4].pokemon
+      value: 
+      objectReference: {fileID: 5859182314905147654, guid: a6739a1b50d8de14c81f875b487330b9, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[5].pokemon
+      value: 
+      objectReference: {fileID: 8436785115061688122, guid: 45d18483cf774b943baae1b01ef23248, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[6].pokemon
+      value: 
+      objectReference: {fileID: 7228750743299148466, guid: 0a9cb48866c6e4c44942b016cd460a3f, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[7].pokemon
+      value: 
+      objectReference: {fileID: 2008735864370272206, guid: 83c550800fac51844be2f566c2272b32, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[8].pokemon
+      value: 
+      objectReference: {fileID: 4770963905605017312, guid: 82c9251077560164ea3166a1296f9529, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[9].pokemon
+      value: 
+      objectReference: {fileID: 3383137935171026696, guid: aadfa9a9d0e67ec45bb2699f8bdb55d7, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[10].pokemon
+      value: 
+      objectReference: {fileID: 2983212329231091078, guid: 1385c6dcaa261844893546775c09a4df, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[11].pokemon
+      value: 
+      objectReference: {fileID: 3821990187518561293, guid: 74f2c68271b93c843a851d16d593f615, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[12].pokemon
+      value: 
+      objectReference: {fileID: 841825674493411159, guid: 06877a21bffc35b4abf4a0297f6ce33c, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[13].pokemon
+      value: 
+      objectReference: {fileID: 2297492885902724330, guid: d211e6dd1f9d73d469f20baae097e9d6, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[14].pokemon
+      value: 
+      objectReference: {fileID: 5659114568520010405, guid: 94fe23b8bab6d2344967bb4e1138a4e1, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[15].pokemon
+      value: 
+      objectReference: {fileID: 1247457425350796882, guid: 61cbe7b6bd266aa45ac4d0bf1b585146, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[16].pokemon
+      value: 
+      objectReference: {fileID: 6185210864497084352, guid: f6fd70cf420262e4db7d2517ed29dd02, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[17].pokemon
+      value: 
+      objectReference: {fileID: 2728738018169964488, guid: 676892c7f42b87b4b9e1a78d23be806f, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[18].pokemon
+      value: 
+      objectReference: {fileID: 7093238389040582835, guid: e1de67aa84d60924495e2f56dbd3c77d, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[19].pokemon
+      value: 
+      objectReference: {fileID: 9151538305332579617, guid: 5cc542e2408075a4b975dc61f2532e0a, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[20].pokemon
+      value: 
+      objectReference: {fileID: 3471879548525585502, guid: d7df8a3a8f79fa54fa08d604a03a592b, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[21].pokemon
+      value: 
+      objectReference: {fileID: 6258284383581481598, guid: 38846890e732e424d8145c10cff4cfe1, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[22].pokemon
+      value: 
+      objectReference: {fileID: 4652604583606897372, guid: 40fe62275d95e4e4b8331ac0bb930985, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[23].pokemon
+      value: 
+      objectReference: {fileID: 3537328444751546945, guid: f27955ac35f67c543bfc7d9f86d24ed7, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[24].pokemon
+      value: 
+      objectReference: {fileID: 2792255201850806444, guid: 22611013575625646b4ce421c713d858, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[25].pokemon
+      value: 
+      objectReference: {fileID: 3517897199951265471, guid: d29309b7e2ba53d4e97051995accf83f, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[26].pokemon
+      value: 
+      objectReference: {fileID: 4083750207895447841, guid: a5f0f4248d6909043b452f17a647bc06, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[27].pokemon
+      value: 
+      objectReference: {fileID: 1599775907543353327, guid: cb6faa7ba53b7604d8ede7f67e183f64, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[28].pokemon
+      value: 
+      objectReference: {fileID: 4756881289237347388, guid: 50f8ebfc7e6c02447a492f323afc1b94, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[29].pokemon
+      value: 
+      objectReference: {fileID: 2042861511256706471, guid: 5f120756763158747b4d80e48707ca0b, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[30].pokemon
+      value: 
+      objectReference: {fileID: 5372640379802872170, guid: a314ff33f2cb94b4f8a31cf3381687f9, type: 3}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[1].spawnProbability
+      value: 75
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[2].spawnProbability
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[3].spawnProbability
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[4].spawnProbability
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[5].spawnProbability
+      value: 35
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[6].spawnProbability
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[7].spawnProbability
+      value: 25
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[8].spawnProbability
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[9].spawnProbability
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[10].spawnProbability
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[11].spawnProbability
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[12].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[13].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[14].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[15].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[16].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[17].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[18].spawnProbability
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[19].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[20].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[21].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[22].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[23].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[24].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[25].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[26].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[27].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[28].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[29].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4624225603610219250, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+      propertyPath: spawners.Array.data[1].enemies.Array.data[30].spawnProbability
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+--- !u!4 &5516435081979482581 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4106487441297679816, guid: 907027c13ab047d429d9084467152d3d, type: 3}
+  m_PrefabInstance: {fileID: 8391187870131778589}
+  m_PrefabAsset: {fileID: 0}

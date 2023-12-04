@@ -1,0 +1,2454 @@
+fileFormatVersion: 2
+guid: af3cccb2f65bb31448d40d419d0ca4f0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Shock-Anim_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 475
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5f00be2724c794ebde5eb80c587a1e
+      internalID: 1789848626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 475
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2c065bbcd354345a3f5db338a22082
+      internalID: 417503848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 475
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3432d39692a6b8c4e8c388c289f81377
+      internalID: -170898432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_4
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 475
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3b4578e8d7e6f4c8e1ffea151e978d
+      internalID: 291141290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 475
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e84ab8874722684cb3850e5725b95bb
+      internalID: 1634134184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_6
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 475
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 412812d9a518f3d4889a236c83e8e545
+      internalID: 1007597262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_8
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 475
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f0a1fa340730d409a88f653096fb28
+      internalID: -1376319154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_9
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 475
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c18a6a903e8c34f8159efb1d5ecfc3
+      internalID: -836931246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 475
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631cafe737e4cd84b8e7ae963f39ba5e
+      internalID: 343733001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_12
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 475
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbb65a12c30b0a4eb287a746c01e4f6
+      internalID: 1356587295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_13
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 475
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339e35b4207c5e2459814314f91ee3e7
+      internalID: -297740117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_14
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 475
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea0a8ac9cea84040b1820155f3f2d7f
+      internalID: 591053895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_15
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 475
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519c82166eec5d146b4b81aaba8646dc
+      internalID: 677301554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 409
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c672c46d6dbae2d4086912ec9e98fff1
+      internalID: 1275567955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_17
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 409
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4c402c5198ce64b841a8be55c72fdc
+      internalID: -724116672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_18
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 409
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a90e53aa19bfd4794bd8db664622d0
+      internalID: -1470298040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_19
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 409
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1550a72d6ea39499e0f000dfced827
+      internalID: -586339102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_20
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 409
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b391bfc10b5e82849b8789cb04c18e69
+      internalID: -1879470542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_21
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 409
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72eb0b493cbcc047849d9c127227fb4
+      internalID: 1508115017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_22
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 409
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ac624da119ecb4abb124caefcf6245
+      internalID: -1409905883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_23
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 409
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95a23e5466f362439d6d34e16c8a57e
+      internalID: -1249517411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_24
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 409
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ad84d8e24ac0a4cb70a5456303d84a
+      internalID: -147790491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_25
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 409
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7239fdf64f420649b2ade5ff1acfa82
+      internalID: -300043814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_26
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 409
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2315a1d1eef525e4baf63e46b1e55911
+      internalID: 400634152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_27
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 409
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6cd63c20106d18418c799e87098f0bc
+      internalID: -566793378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_28
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 409
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9cd0b2f949f6c4898a6fa32bbf78c5
+      internalID: 1484106828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 346
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee985d8a401d8047b31b3af26af8bd1
+      internalID: 317625398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_30
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 346
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4177cd2ea817143ac4d6dbd739b312
+      internalID: -104826670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_32
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 346
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3baa8c06018a99848a0604d7f930987c
+      internalID: 453390152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_33
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 346
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e825f7aebb23b4999c45b7f207e8a1
+      internalID: 1260502208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_35
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 346
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf0b0d5be1cd9846b57851d882d4977
+      internalID: -2078479253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_37
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 346
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6b3017c5e2d0c4987fc44448934e22
+      internalID: -1977265128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_38
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 346
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e66d949187e9cd46b88df771bab1e83
+      internalID: 1540242016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_40
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 346
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e0bbf1065179c47b7a06b77722bf62
+      internalID: 1307503219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_42
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 346
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2b5b1ec20247e4d9ec1c0c4463f50f
+      internalID: -1503478253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_43
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 346
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4bfd8204fda9784eb8a8df35ecffd9e
+      internalID: -845957669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_45
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 346
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18669f024efe8064eb8b8f5eeb50ea20
+      internalID: 1166217169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_46
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 346
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da215448f02d794d864f53c914b4e4d
+      internalID: 390499233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_47
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 346
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4819fc3df231a4c8c4ffa484d80e6b
+      internalID: -938751297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_54
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 282
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c91d0a1225ca5846b38dc88721b0903
+      internalID: -1990046182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_55
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 282
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbdd4e9b639899843966a8846c30b159
+      internalID: 2083919852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_57
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 282
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c2cc5b2f9888e41b87c0717300255d
+      internalID: 1330684933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_58
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 282
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aebb650eedd0044cb7774f90a1ffdc8
+      internalID: -1086913943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_59
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 282
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a830d8fc5459b4468b3f8ae5a5ba129
+      internalID: 1705522230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_61
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 282
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f416e4ea329cb814ab1122eb433bd7ed
+      internalID: 727511782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_62
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 282
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efbf2ee7c7e17447964b4eae30b6afb
+      internalID: -1176100005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_63
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 282
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63c1a323c7afd4143907c3c9027028a0
+      internalID: -1168986859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_65
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 282
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04ac1ebd4a4ed24ba00795cf59437c1
+      internalID: -656485535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_66
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 282
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c578b663341ee8149a366a831fdfb576
+      internalID: 497289587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_67
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 282
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd19efdff525cb429bc4368a4c9b355
+      internalID: -960274493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_68
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 282
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861ab28a7dfbad14bb2f491eb21c2c0a
+      internalID: 1856555555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_69
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 282
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bfd27a6aa120a64a96cfc270bba93b9
+      internalID: 235390752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_70
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 217
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571bb83fd4ba5884b86141a576663c68
+      internalID: -39808196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_71
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 218
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62798f2324486544a2bace5df5a46d6
+      internalID: -1634879636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_72
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 218
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868a91a0393908d4a8a5e187e5c53569
+      internalID: -367202353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_74
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 218
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5658c654775aed842ac1da66362ffc65
+      internalID: -1025490641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_75
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 218
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51166e8996ba544f9caad8932549755
+      internalID: 929934782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_76
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 218
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d660519852bbd46a7a9f63e136f2d7
+      internalID: -474109148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_78
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 218
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ad56f3b2834ae45b9e10df9b03b94d
+      internalID: 1804964949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_79
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 218
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb2575e133855e41ad3282bf10a32a4
+      internalID: -1588551350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_80
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 218
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ade6d57085ffe409d4f353ce6106ea
+      internalID: 651153319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_82
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 218
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ce66f8d669f594c8e8f55258fb1bd9
+      internalID: -1574169174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_83
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 218
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0a8364a5bc15d41baedaff9dcfb9ec
+      internalID: 573740428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_84
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 218
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10745ed7ea8f9e94da293878347744b0
+      internalID: 895587745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_85
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 218
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298ff5f527dc4cd4e828e28e59c98d7b
+      internalID: 1592424619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_86
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 154
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c615710b1651f4faf96a09b485aaee
+      internalID: -689978305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_87
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 154
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcd48ba964daad41bd003839e8a5809
+      internalID: -393799407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_89
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 154
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2222b6945fd3fbf4bb7f4b22c9ac37f1
+      internalID: -1112265148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_90
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 154
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4dcbfb5abccb34596cd3622d3619fa
+      internalID: 1671637568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_91
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 154
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b6e22f71c538e46a922dcea6dcb10b
+      internalID: 643194187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_93
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 154
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a5c94481421774ca90546f5ab202ac
+      internalID: -454383593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_94
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 154
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92254ff00560b114e891fed53e3abeb6
+      internalID: -1275976800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_95
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 154
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3001c4586800f4f4faf7b6571b684a66
+      internalID: -1196738773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_97
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 154
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4870f4872a00605498297aab609ae501
+      internalID: 988021805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_98
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 154
+        width: 39
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf02159ec5bc854bbf8a870efe6be41
+      internalID: 1446679242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_99
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 154
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894ec0e1ccd82d34992398200032a3f9
+      internalID: -1291196455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_100
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 154
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b18d1a811d0f4e419b6c4b9d18f5ebc
+      internalID: -1743593394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_101
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 154
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59fc7c261532a2e499484529ecfcd1a6
+      internalID: 1852896075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_102
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 90
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca169de4e5d4bc34194e11f22b7ed4ec
+      internalID: -355567651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_104
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 90
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29907d8b3d01e3345a3d8563413a6ac9
+      internalID: 548038228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_105
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 90
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfaf3b2c8ef1b04d82f6b87927e4437
+      internalID: 1262711292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_107
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 90
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45eec144d07fa774e98dd297e2b60667
+      internalID: -2028433919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_109
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 90
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06963f5dad4388245ab756ca51b12ca5
+      internalID: 1516159230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_110
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 90
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4153f2a156ee9004e880d158a5d0ea2c
+      internalID: -1660548771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_112
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 90
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c675cea7d76798d4495db6d06acda564
+      internalID: 286374499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_114
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 90
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd78133763406734da4eaf97ad4c438f
+      internalID: -1604266071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_115
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 90
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321e8995efd81754198d9fef3dd83410
+      internalID: -1717542345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_117
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 90
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11c81289ae462f41b0ffc6976b4d48d
+      internalID: -1770618368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_118
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 90
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e4316be349b604981e4f3a29190cd2
+      internalID: 1627957198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_119
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 90
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd78d39c16ab9c643a5bc6a1c72239d0
+      internalID: -342132893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_120
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 90
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c520e872bb5a424b9ef73815e883124
+      internalID: -1706746760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_130
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 25
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adda1b452766e98448ca03bb128a4e86
+      internalID: 1662369845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_131
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 25
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014b2c11494426d4cbbf220b273ab6d2
+      internalID: -891368614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_132
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 25
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234732af99b6e524399544d37df2ac4f
+      internalID: 642576451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_133
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 25
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0536547530b2904a9d48e9c4809b25b
+      internalID: -940668166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_134
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 25
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f1d58f9615a244cb036f8a7c3e4b9f
+      internalID: -1559035137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_135
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 25
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8becbb2235cf81a43a5ec209156fa531
+      internalID: -1190211091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_136
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 25
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ebf7f6da23eab4bbc3c6286e78c00e
+      internalID: 956627120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_137
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 25
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4585948f56e8284fa004fc1db58ee1b
+      internalID: -803292573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_138
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 25
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de6810521e037f4591f839fea9510cb
+      internalID: -1020404022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_139
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 25
+        width: 39
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a36f23554f4fa142b1ebfa60b3e3a6b
+      internalID: 2132848514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_140
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 25
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91c033a10b13d244934418515a53375
+      internalID: 151522514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_141
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 25
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cb1257f51261f48bada21dae49575b
+      internalID: 544722569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Shock-Anim_142
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 25
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1fe9b54504c0d4e8fb0c2efd7671f9
+      internalID: 673048977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Shock-Anim_0: 1789848626
+      Shock-Anim_1: 417503848
+      Shock-Anim_10: 343733001
+      Shock-Anim_100: -1743593394
+      Shock-Anim_101: 1852896075
+      Shock-Anim_102: -355567651
+      Shock-Anim_103: -785659191
+      Shock-Anim_104: 548038228
+      Shock-Anim_105: 1262711292
+      Shock-Anim_106: -631217626
+      Shock-Anim_107: -2028433919
+      Shock-Anim_108: -395869019
+      Shock-Anim_109: 1516159230
+      Shock-Anim_11: -200522425
+      Shock-Anim_110: -1660548771
+      Shock-Anim_111: -364275579
+      Shock-Anim_112: 286374499
+      Shock-Anim_113: -715160050
+      Shock-Anim_114: -1604266071
+      Shock-Anim_115: -1717542345
+      Shock-Anim_116: 659008829
+      Shock-Anim_117: -1770618368
+      Shock-Anim_118: 1627957198
+      Shock-Anim_119: -342132893
+      Shock-Anim_12: 1356587295
+      Shock-Anim_120: -1706746760
+      Shock-Anim_121: 958091952
+      Shock-Anim_122: 523295532
+      Shock-Anim_123: 1447337253
+      Shock-Anim_124: -177722252
+      Shock-Anim_125: 907037727
+      Shock-Anim_126: -1057741487
+      Shock-Anim_127: -417655328
+      Shock-Anim_128: -135054931
+      Shock-Anim_129: 168397069
+      Shock-Anim_13: -297740117
+      Shock-Anim_130: 1662369845
+      Shock-Anim_131: -891368614
+      Shock-Anim_132: 642576451
+      Shock-Anim_133: -940668166
+      Shock-Anim_134: -1559035137
+      Shock-Anim_135: -1190211091
+      Shock-Anim_136: 956627120
+      Shock-Anim_137: -803292573
+      Shock-Anim_138: -1020404022
+      Shock-Anim_139: 2132848514
+      Shock-Anim_14: 591053895
+      Shock-Anim_140: 151522514
+      Shock-Anim_141: 544722569
+      Shock-Anim_142: 673048977
+      Shock-Anim_15: 677301554
+      Shock-Anim_16: 1275567955
+      Shock-Anim_17: -724116672
+      Shock-Anim_18: -1470298040
+      Shock-Anim_19: -586339102
+      Shock-Anim_2: -170898432
+      Shock-Anim_20: -1879470542
+      Shock-Anim_21: 1508115017
+      Shock-Anim_22: -1409905883
+      Shock-Anim_23: -1249517411
+      Shock-Anim_24: -147790491
+      Shock-Anim_25: -300043814
+      Shock-Anim_26: 400634152
+      Shock-Anim_27: -566793378
+      Shock-Anim_28: 1484106828
+      Shock-Anim_29: 317625398
+      Shock-Anim_3: -1737583884
+      Shock-Anim_30: -104826670
+      Shock-Anim_31: 969022375
+      Shock-Anim_32: 453390152
+      Shock-Anim_33: 1260502208
+      Shock-Anim_34: 153789618
+      Shock-Anim_35: -2078479253
+      Shock-Anim_36: -71822996
+      Shock-Anim_37: -1977265128
+      Shock-Anim_38: 1540242016
+      Shock-Anim_39: 1246065233
+      Shock-Anim_4: 291141290
+      Shock-Anim_40: 1307503219
+      Shock-Anim_41: -598036939
+      Shock-Anim_42: -1503478253
+      Shock-Anim_43: -845957669
+      Shock-Anim_44: -549001704
+      Shock-Anim_45: 1166217169
+      Shock-Anim_46: 390499233
+      Shock-Anim_47: -938751297
+      Shock-Anim_48: 1718983881
+      Shock-Anim_49: -169654127
+      Shock-Anim_5: 1634134184
+      Shock-Anim_50: 1821620155
+      Shock-Anim_51: 224117657
+      Shock-Anim_52: 1744709997
+      Shock-Anim_53: -1258578389
+      Shock-Anim_54: -1990046182
+      Shock-Anim_55: 2083919852
+      Shock-Anim_56: 929741532
+      Shock-Anim_57: 1330684933
+      Shock-Anim_58: -1086913943
+      Shock-Anim_59: 1705522230
+      Shock-Anim_6: 1007597262
+      Shock-Anim_60: -15720733
+      Shock-Anim_61: 727511782
+      Shock-Anim_62: -1176100005
+      Shock-Anim_63: -1168986859
+      Shock-Anim_64: 1507789596
+      Shock-Anim_65: -656485535
+      Shock-Anim_66: 497289587
+      Shock-Anim_67: -960274493
+      Shock-Anim_68: 1856555555
+      Shock-Anim_69: 235390752
+      Shock-Anim_7: -2006703986
+      Shock-Anim_70: -39808196
+      Shock-Anim_71: -1634879636
+      Shock-Anim_72: -367202353
+      Shock-Anim_73: 1630274179
+      Shock-Anim_74: -1025490641
+      Shock-Anim_75: 929934782
+      Shock-Anim_76: -474109148
+      Shock-Anim_77: -329387012
+      Shock-Anim_78: 1804964949
+      Shock-Anim_79: -1588551350
+      Shock-Anim_8: -1376319154
+      Shock-Anim_80: 651153319
+      Shock-Anim_81: 883351873
+      Shock-Anim_82: -1574169174
+      Shock-Anim_83: 573740428
+      Shock-Anim_84: 895587745
+      Shock-Anim_85: 1592424619
+      Shock-Anim_86: -689978305
+      Shock-Anim_87: -393799407
+      Shock-Anim_88: 1913509919
+      Shock-Anim_89: -1112265148
+      Shock-Anim_9: -836931246
+      Shock-Anim_90: 1671637568
+      Shock-Anim_91: 643194187
+      Shock-Anim_92: -716273352
+      Shock-Anim_93: -454383593
+      Shock-Anim_94: -1275976800
+      Shock-Anim_95: -1196738773
+      Shock-Anim_96: 817848612
+      Shock-Anim_97: 988021805
+      Shock-Anim_98: 1446679242
+      Shock-Anim_99: -1291196455
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

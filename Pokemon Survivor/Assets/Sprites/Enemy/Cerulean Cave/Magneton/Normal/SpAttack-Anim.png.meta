@@ -1,0 +1,2063 @@
+fileFormatVersion: 2
+guid: 0cfdf70b2ef360747841271f9ec681f1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpAttack-Anim_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 357
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f75fff5605542846ad86c298532d6e8
+      internalID: 1406160894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 358
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc906c12a98d404fbe71c3e44623137
+      internalID: -818128590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 357
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2840f7a03baebfe40aca18301686c6fc
+      internalID: -1533769648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_3
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 353
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3eb496ec95544d44baa8b6a911859e6
+      internalID: -547624344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_4
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 350
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ae5f4f7745a154db0b9c338587c1c3
+      internalID: 1366159142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_5
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 352
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9ee39eff3811143bb2c5de4b0c1f0b
+      internalID: 65847270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_6
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 350
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c6d1c411f2c4544805df1b72434c3f
+      internalID: -1029751033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_7
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 352
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995c77b0d67d38849b3a6d96283b51e4
+      internalID: -2102713857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 350
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4adfcb6ea8ad443a7049d7fac93a3b
+      internalID: -1373082774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_9
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 352
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdeade750b2c0e947aa55d5b954cc133
+      internalID: 1408208377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_10
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 353
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503986f9d34c0ea45bea0138895340a3
+      internalID: -1640321987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 308
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b688820437b95224d93de09f29e9fa58
+      internalID: -1432402513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 309
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dcfa3641dc491646b45d828a8cc231f
+      internalID: 855497854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_13
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 308
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245d35e3bcffe694a89f867aee854a29
+      internalID: 961190661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 305
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bcd231fd2fa9c48b96215554a53b97
+      internalID: 216630447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_15
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 302
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9036180651df0b74091cd7e991e92081
+      internalID: 1353232169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_16
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 304
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5103f2cc0464e34cb41df514faf9cd3
+      internalID: 781884952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_17
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 302
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72fdcf725b9869f4c9fa76285f366fe3
+      internalID: 463259415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_18
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 304
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe1a4c1456166549afa785a7d70a5aa
+      internalID: 1519901463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_19
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 302
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79220173c15545c43bee830c04c0fb02
+      internalID: 2139635928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_20
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 304
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b2cfae7d1514ec48abe85aeed7d5b5b
+      internalID: 618490827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_21
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 305
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb87ecbd09b9644db02a89d9afcb4f4
+      internalID: -1765841695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_22
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 259
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e169e79171300ea4e9f02f7471fdda6a
+      internalID: -954024720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_23
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 260
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00ef7b36d85ad0748acbc0c1041ceb89
+      internalID: -661644339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_24
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 259
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde99cec504caf74daddc9d82cba9fe8
+      internalID: 1437834545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_25
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 258
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018a4a21c11ffb247a55f10911006fdd
+      internalID: 515809582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_26
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 258
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5289d6ebf876dc74295c3adce161688d
+      internalID: -743434070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_27
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 258
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb53760f2a9d874e918ee326c19e2bd
+      internalID: 1950355292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_28
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 258
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a5b694d1ee6df4d9f0c5c182243ed0
+      internalID: -141287651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_29
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 258
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdb60f6951155e43a5c313075c062ab
+      internalID: 1835309318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_30
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 258
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e1de61bc90bd7449a49f9076eb6b85
+      internalID: -2012394808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_31
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 258
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3591953bd98ea64c9c30e359e8e3462
+      internalID: -1956211263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_32
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 258
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a6437571c75594792fd810b0adf18a
+      internalID: 1664137839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_33
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 212
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf57efb9e25731468ab8e28492b049a
+      internalID: 2044220189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_34
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 213
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e5a29de8404e947bdde4d07b76a171
+      internalID: 901836004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_35
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 212
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41fc13f98c971642a34dae870d49ed6
+      internalID: 860112807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_36
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 214
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4772339bbef7e394281955074cace081
+      internalID: -416135543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_37
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 217
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c491aeaac30c345adaedc9bdb7a104
+      internalID: -413799475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_38
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 216
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69c6df32c5e31b04b944b381e0b2abb5
+      internalID: 1327840707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_39
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 217
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ef30ece9d935e479e841b31c5accfb
+      internalID: -255078695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_40
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 216
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4c4550c9d48494bad06329d1764973
+      internalID: 634910247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_41
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 217
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4da4a5d42b6d5d4999c3278332045db
+      internalID: -477762440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_42
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 216
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d84edb16bef924598fba8f3d56be42
+      internalID: -340411698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_43
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 214
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a7224929f5d4f4e96b6e85f968f185
+      internalID: 1944615391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_44
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 166
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c254f8bdd42d84e96fb688777857d9
+      internalID: -835159817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_45
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 167
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62302f31378b68f40b6a2c3208c28eb8
+      internalID: -441790155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_46
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 166
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3da1d0561c7ef94397b57e6df8d8fd7
+      internalID: -2088397843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_47
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 168
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03fea01cc272d56489efbe78439918ec
+      internalID: -1549189232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_48
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 172
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e1cc640222e9442acda3fa92b39d6f
+      internalID: -2468632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_49
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 171
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97111f31249062a459c2b9027fc66388
+      internalID: 1618205729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_50
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 172
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d0da1dbb3459849b1e8ff5e48ad45a
+      internalID: -1658117149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_51
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 171
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd010ed80067664684e9a4b04a91336
+      internalID: 1525939335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_52
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 172
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7045b7e7afe07745af180ba2752eb24
+      internalID: -1925703403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_53
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 171
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952bfa20429e38a419672fdcac2e3ff9
+      internalID: 2020718406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_54
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 168
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f768f375df8f7e4aba45fe457d5d364
+      internalID: 537206240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_55
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 116
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac975a74b473cbd458abd3bed93aa7d0
+      internalID: -1576794579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_56
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 117
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41766fe852b4a5d48a8e6aa8bc2bcae9
+      internalID: -859843446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_57
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 116
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc903934dbb74494db4ace41d36c04a0
+      internalID: 1255751448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_58
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 118
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d2a2e9cfe83c74eb301de5ae106441
+      internalID: 954563468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_59
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 121
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91cbbf30a7ea65a439163f408d1fff44
+      internalID: 1044125944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_60
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 120
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e483226305098154a854f64328df4c6f
+      internalID: -1514477546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_61
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 121
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e4e39461040c04691cc47b7daa6384
+      internalID: 1284159509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_62
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 120
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2616a11bfc56444b946b776d7b32af
+      internalID: 333686019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_63
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 121
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d7b246a34f8614bba235fceb11c384
+      internalID: -486847599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_64
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 120
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54818cf0759689c4da891269bdab400b
+      internalID: 1539797260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_65
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 118
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a24545bdaddb4241b92dd904e7067f0
+      internalID: -513727847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_66
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 67
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d25a503858741419d58d591258acb9
+      internalID: 350667716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_67
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 68
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa218106055f64544b2c86c9ab441be9
+      internalID: 511038845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_68
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 67
+        width: 15
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8515d455d2e52484ba58753724da53c7
+      internalID: -1418332816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_69
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 66
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8d6f72839b4b5459c433c2861e4835
+      internalID: -1926530021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_70
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 66
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60a460419973454da9567fbee08e955
+      internalID: 189427221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_71
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 66
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146b96b0945b6e947b54f8012dacbe83
+      internalID: 419447925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_72
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 66
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3060cf589a1df3942b4065927af5fae6
+      internalID: 54165907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_73
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 66
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1879679ababf51d44a7483bcd9f27be3
+      internalID: 1723441375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_74
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 66
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7343cabb1a976d34580e3484923e0e77
+      internalID: -2046639470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_75
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 66
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48e09a3ad292b54d8b3d84979e0463a
+      internalID: 1908404607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_76
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 66
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4aecf520adb36439033dab2df9f507
+      internalID: -2058511265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_77
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 20
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae142bc97b16014ba4eb18d993189be
+      internalID: -442907472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_78
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 21
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8159d2e50eea50b4f9195b4781e012d6
+      internalID: -289880925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_79
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 20
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513075f2f7937714fb81a5ff883fabad
+      internalID: 1945795229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_80
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 17
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c214c4c4f365a74db29f8158983aef8
+      internalID: -2000515515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_81
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 14
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca97573cba69ada4a8cc4b4cb3bb3030
+      internalID: 550968342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_82
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 16
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf09a9bb70ecad4a84708955dc486d0
+      internalID: -1618537196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_83
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 14
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22aaf2b146f182e46831535348e8c069
+      internalID: -2045697724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_84
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 16
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc93596cbdc89304896426d7a70e3466
+      internalID: -1427066214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_85
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 14
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ef66698e747524d8430329f1833dc9
+      internalID: 516035213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_86
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 16
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f002101bc8a8a84bb0571dae136a6de
+      internalID: 1132515745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpAttack-Anim_87
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 17
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e7767b07de6b54c8381a00eb47ed28
+      internalID: 348201307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpAttack-Anim_0: 1406160894
+      SpAttack-Anim_1: -818128590
+      SpAttack-Anim_10: -1640321987
+      SpAttack-Anim_11: -1432402513
+      SpAttack-Anim_12: 855497854
+      SpAttack-Anim_13: 961190661
+      SpAttack-Anim_14: 216630447
+      SpAttack-Anim_15: 1353232169
+      SpAttack-Anim_16: 781884952
+      SpAttack-Anim_17: 463259415
+      SpAttack-Anim_18: 1519901463
+      SpAttack-Anim_19: 2139635928
+      SpAttack-Anim_2: -1533769648
+      SpAttack-Anim_20: 618490827
+      SpAttack-Anim_21: -1765841695
+      SpAttack-Anim_22: -954024720
+      SpAttack-Anim_23: -661644339
+      SpAttack-Anim_24: 1437834545
+      SpAttack-Anim_25: 515809582
+      SpAttack-Anim_26: -743434070
+      SpAttack-Anim_27: 1950355292
+      SpAttack-Anim_28: -141287651
+      SpAttack-Anim_29: 1835309318
+      SpAttack-Anim_3: -547624344
+      SpAttack-Anim_30: -2012394808
+      SpAttack-Anim_31: -1956211263
+      SpAttack-Anim_32: 1664137839
+      SpAttack-Anim_33: 2044220189
+      SpAttack-Anim_34: 901836004
+      SpAttack-Anim_35: 860112807
+      SpAttack-Anim_36: -416135543
+      SpAttack-Anim_37: -413799475
+      SpAttack-Anim_38: 1327840707
+      SpAttack-Anim_39: -255078695
+      SpAttack-Anim_4: 1366159142
+      SpAttack-Anim_40: 634910247
+      SpAttack-Anim_41: -477762440
+      SpAttack-Anim_42: -340411698
+      SpAttack-Anim_43: 1944615391
+      SpAttack-Anim_44: -835159817
+      SpAttack-Anim_45: -441790155
+      SpAttack-Anim_46: -2088397843
+      SpAttack-Anim_47: -1549189232
+      SpAttack-Anim_48: -2468632
+      SpAttack-Anim_49: 1618205729
+      SpAttack-Anim_5: 65847270
+      SpAttack-Anim_50: -1658117149
+      SpAttack-Anim_51: 1525939335
+      SpAttack-Anim_52: -1925703403
+      SpAttack-Anim_53: 2020718406
+      SpAttack-Anim_54: 537206240
+      SpAttack-Anim_55: -1576794579
+      SpAttack-Anim_56: -859843446
+      SpAttack-Anim_57: 1255751448
+      SpAttack-Anim_58: 954563468
+      SpAttack-Anim_59: 1044125944
+      SpAttack-Anim_6: -1029751033
+      SpAttack-Anim_60: -1514477546
+      SpAttack-Anim_61: 1284159509
+      SpAttack-Anim_62: 333686019
+      SpAttack-Anim_63: -486847599
+      SpAttack-Anim_64: 1539797260
+      SpAttack-Anim_65: -513727847
+      SpAttack-Anim_66: 350667716
+      SpAttack-Anim_67: 511038845
+      SpAttack-Anim_68: -1418332816
+      SpAttack-Anim_69: -1926530021
+      SpAttack-Anim_7: -2102713857
+      SpAttack-Anim_70: 189427221
+      SpAttack-Anim_71: 419447925
+      SpAttack-Anim_72: 54165907
+      SpAttack-Anim_73: 1723441375
+      SpAttack-Anim_74: -2046639470
+      SpAttack-Anim_75: 1908404607
+      SpAttack-Anim_76: -2058511265
+      SpAttack-Anim_77: -442907472
+      SpAttack-Anim_78: -289880925
+      SpAttack-Anim_79: 1945795229
+      SpAttack-Anim_8: -1373082774
+      SpAttack-Anim_80: -2000515515
+      SpAttack-Anim_81: 550968342
+      SpAttack-Anim_82: -1618537196
+      SpAttack-Anim_83: -2045697724
+      SpAttack-Anim_84: -1427066214
+      SpAttack-Anim_85: 516035213
+      SpAttack-Anim_86: 1132515745
+      SpAttack-Anim_87: 348201307
+      SpAttack-Anim_9: 1408208377
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2063 @@
+fileFormatVersion: 2
+guid: 7475ea5d57751884a9b4e43ebec45a10
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Punch-Anim_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 655
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c406ee7ef281f24b9ac2b70d0518056
+      internalID: -375172207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 656
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745d81ec84c53674dba79b037a11b0ec
+      internalID: -1427670747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 651
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25f7cfeeee0a7148a734a8dd960b5ee
+      internalID: -76511062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_3
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 646
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12c60833c14da44fbc6377c305a0b5c
+      internalID: -912784160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_4
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 633
+        width: 30
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa1bf6318e5f514bb85c2deba66b800
+      internalID: -1941834414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_5
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 634
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba6c95c1d1566448a8c3344202083a5
+      internalID: -1777872197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_6
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 635
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e43c207712eb0342aeaf31f233cc3b8
+      internalID: 1605921807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_7
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 634
+        width: 21
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54222fea18be11f41970b56f2474d034
+      internalID: -1324753377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_8
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 635
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79cfc17abe4fa9f4dbad9dc18b7738fa
+      internalID: -1054297759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_9
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 634
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd478419d217474ab0b54c1cb189c84
+      internalID: 2007735171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_10
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 647
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cd8f6872adfe04584c57eadf19389c
+      internalID: 636979777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 567
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3112e0b0ecf1b02428203014298b1ffd
+      internalID: -1388802007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 569
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c45971b949f1a748ba3222de44b92f4
+      internalID: -1316842722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_13
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 564
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e3236a7f9341442a25c649f7a3f1eb
+      internalID: 272347302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_14
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 559
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6d5aa9a4b11ba4a92293de96a86b50
+      internalID: -1022651257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 546
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cfc27270c4b7b94491e256529c65d70
+      internalID: -512946788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_16
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 546
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5170cf28564bf349964e1af3f6b8d8e
+      internalID: 1223461741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_17
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 547
+        width: 36
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5742f01ab8437c45b439875127bcfad
+      internalID: 1393743108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_18
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 546
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09750d454620184bb439699bba45829
+      internalID: 525336007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_19
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 547
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a77a9c9fa01af4aa4931f93ccc7e06
+      internalID: -633861114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_20
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 546
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ac5ca815f39ac4eabefe2430b7803a
+      internalID: 802043239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_21
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 556
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217bdf59f4a73c248a3fd8d7a0b297c5
+      internalID: 1139573311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 477
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01cee1dc558e9647b4e3952f8a36eae
+      internalID: -1480400846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_23
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 480
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0dd11ca92ae9e43a0fb1f0b7e6d3d6
+      internalID: -1140711630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_24
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 478
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5eaa691b4ae7ff4899fe6db1ba4c79f
+      internalID: 1116198774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_25
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 478
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b0b15156f561e48ab13a9790594998
+      internalID: 2046511539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_26
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 477
+        width: 68
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1617abd79a8634141bc99572f1e77576
+      internalID: -86045922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_27
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 477
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fdd5acd4a33e04885b0486d7cc552c
+      internalID: 631369340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_28
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 477
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf31e8b942e539e4aa13864c7350e3d9
+      internalID: -221007923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_29
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 477
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc746ddd975343d4aa3f53363b50b9d2
+      internalID: -1326752501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_30
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 477
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfc90b6b1bf4e74bb3a24592f251256
+      internalID: 413952771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_31
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 477
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5695edef0d14b6b4d82c6aff91747cbb
+      internalID: -1018118423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_32
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 477
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a265933089806e44d8f7060900d7c351
+      internalID: 363942515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_33
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 389
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f94db6254dc1547be17e6d06293e7a
+      internalID: -1399220238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_34
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 383
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 562aad5e470b5d242b86e57da36fe6d4
+      internalID: 77710909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_35
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 383
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b99813f52701b40a370f3ba6cf6554
+      internalID: 1901584744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_36
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 387
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9df72e7fa3e71141a23219ce9af3f1e
+      internalID: -2125377981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_37
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 387
+        width: 57
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e6533d4e91b164ab5588ce44cab9ce
+      internalID: 616197399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_38
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 392
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f444bf5ae640d8b4b9f8e837c15f2b3b
+      internalID: -1433561866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_39
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 397
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a778fe093d859941bfc875420391af6
+      internalID: 943771742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_40
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 402
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040449d0154f0aa40a9596fc363a8173
+      internalID: 860329786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_41
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 404
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51b5f12e30afde4e9d7288983039882
+      internalID: -606157220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_42
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 407
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162588d47408d914995b82a75c7751e2
+      internalID: -134237638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_43
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 398
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0e6daa59349e94dbb6e1a33808864f
+      internalID: -2041928836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_44
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 299
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1fb6771ce1cb4d4b82128f8cda8d260
+      internalID: -1990603383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_45
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 290
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e06195bae19e204f983e132bde49c06
+      internalID: -1335345154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_46
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 288
+        width: 16
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c577161a3ad40184cb8c1fda2e1c64ad
+      internalID: -1776008303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_47
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 287
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d080ebe30f025e4283b1b25e3b1eba3
+      internalID: 295991932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_48
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 285
+        width: 29
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59bf3d4f52d251409dc1e682733cb68
+      internalID: -1487567634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_49
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 293
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20024193025900418592e1a63d8d805
+      internalID: 2006509137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_50
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 301
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c230ae85e9cf8c4aa1d4b2ffc6947f0
+      internalID: 670419140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_51
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 308
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e635b2cbf8212eb47a9eb8367ec44858
+      internalID: 383080221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_52
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 312
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef77f60a184e0c247ab28771fbc897b7
+      internalID: 59454419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_53
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 317
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3935d82bdcc0112429c7116c611cd9ea
+      internalID: 978051830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_54
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 310
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af4dec26ed88164387b6226f9e02e01
+      internalID: -1564976272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_55
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 213
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63bec1b60bf70284a83c669fd10afe3c
+      internalID: 1642153489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_56
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 207
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d519ed7a96627334bb6c7a50f0d42d0b
+      internalID: 500072224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_57
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 208
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24640cc116daae2479368840b03857d0
+      internalID: -492597821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_58
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 206
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e77acba542a45a408637f86a25f4ca5
+      internalID: -1367390290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_59
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 211
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c794cf68582c9a4786339b854bf5990
+      internalID: -652421700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_60
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 208
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d317ff6ac3a49438572fe3f517a9bd
+      internalID: -1080864474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_61
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 215
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8ef3c40d228734a82f3e9442a893f7
+      internalID: -1113213045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_62
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 223
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d983e6a0499c794cb69be55f390d034
+      internalID: -16768696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_63
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 226
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c44ce895bd0b7f418bac0aecdaadce4
+      internalID: 654746042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_64
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 231
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc0a23b792f49b54bbdc279f8b8cf556
+      internalID: 1735248903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_65
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 225
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255d51fb5aa08ee4282a3313ef57f524
+      internalID: -1051281357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_66
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 125
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d28cad4078ee04f979da44ed7a5b19
+      internalID: -1355916563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_67
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 129
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af87067d1d585a41874119d24345122
+      internalID: -773620181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_68
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 128
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6c162a8450aba4293b4ae44eda980b
+      internalID: -1831690153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_69
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 127
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1dfb7921b531946a0d6d6486f86982
+      internalID: 2061632864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_70
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 125
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6818c28cb0bab4a96eaa5b28d8d002
+      internalID: 1106125357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_71
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 125
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1ce66e0495a314f96443ae295b2e58
+      internalID: -714328683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_72
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 125
+        width: 39
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d2f45ee63ac8540b78e994ea0e34f3
+      internalID: -617283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_73
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 125
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad714ce646be10468cde863465be02d
+      internalID: 1015313817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_74
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 125
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e47ae7553e1bf443a08f512285ba157
+      internalID: -1720745115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_75
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 125
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b0c1c79464577c4b999d7ce55ef8974
+      internalID: 1730699723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_76
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 126
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fee521385d742b4cae9cf4e29f8e9d4
+      internalID: -1793613902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_77
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 38
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd6ca9ec78250649bf6995a82899cc2
+      internalID: 835635583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_78
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 41
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5fb516ec9237a44b75daf9003d23b9
+      internalID: -959947605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_79
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 36
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e74fd568f32cac49a1a8e90d5242bfb
+      internalID: 1616090501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_80
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 31
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15cc7f88e249504cacc77b9f0922d9a
+      internalID: 595565490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_81
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 18
+        width: 47
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e10eab85f709654b95b9641822b60d8
+      internalID: -1880099973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_82
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 18
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf7af70ad4f6a24883e62fff7c4970b
+      internalID: -523919709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_83
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 19
+        width: 40
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f97efb65f3a9f2458a0f5b8a817df5f
+      internalID: 452946622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_84
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 18
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0ed0e9752b5f5448800e23ea5b6d69
+      internalID: 127955865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_85
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 19
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 932383cd884865541bae7c279c299fe4
+      internalID: 407663377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_86
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 18
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a34db579a8358a47963c87c0c3e0426
+      internalID: -364633926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Punch-Anim_87
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 27
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5ba84648061db42822e8822dec6009
+      internalID: 1764730497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Punch-Anim_0: -375172207
+      Punch-Anim_1: -1427670747
+      Punch-Anim_10: 636979777
+      Punch-Anim_11: -1388802007
+      Punch-Anim_12: -1316842722
+      Punch-Anim_13: 272347302
+      Punch-Anim_14: -1022651257
+      Punch-Anim_15: -512946788
+      Punch-Anim_16: 1223461741
+      Punch-Anim_17: 1393743108
+      Punch-Anim_18: 525336007
+      Punch-Anim_19: -633861114
+      Punch-Anim_2: -76511062
+      Punch-Anim_20: 802043239
+      Punch-Anim_21: 1139573311
+      Punch-Anim_22: -1480400846
+      Punch-Anim_23: -1140711630
+      Punch-Anim_24: 1116198774
+      Punch-Anim_25: 2046511539
+      Punch-Anim_26: -86045922
+      Punch-Anim_27: 631369340
+      Punch-Anim_28: -221007923
+      Punch-Anim_29: -1326752501
+      Punch-Anim_3: -912784160
+      Punch-Anim_30: 413952771
+      Punch-Anim_31: -1018118423
+      Punch-Anim_32: 363942515
+      Punch-Anim_33: -1399220238
+      Punch-Anim_34: 77710909
+      Punch-Anim_35: 1901584744
+      Punch-Anim_36: -2125377981
+      Punch-Anim_37: 616197399
+      Punch-Anim_38: -1433561866
+      Punch-Anim_39: 943771742
+      Punch-Anim_4: -1941834414
+      Punch-Anim_40: 860329786
+      Punch-Anim_41: -606157220
+      Punch-Anim_42: -134237638
+      Punch-Anim_43: -2041928836
+      Punch-Anim_44: -1990603383
+      Punch-Anim_45: -1335345154
+      Punch-Anim_46: -1776008303
+      Punch-Anim_47: 295991932
+      Punch-Anim_48: -1487567634
+      Punch-Anim_49: 2006509137
+      Punch-Anim_5: -1777872197
+      Punch-Anim_50: 670419140
+      Punch-Anim_51: 383080221
+      Punch-Anim_52: 59454419
+      Punch-Anim_53: 978051830
+      Punch-Anim_54: -1564976272
+      Punch-Anim_55: 1642153489
+      Punch-Anim_56: 500072224
+      Punch-Anim_57: -492597821
+      Punch-Anim_58: -1367390290
+      Punch-Anim_59: -652421700
+      Punch-Anim_6: 1605921807
+      Punch-Anim_60: -1080864474
+      Punch-Anim_61: -1113213045
+      Punch-Anim_62: -16768696
+      Punch-Anim_63: 654746042
+      Punch-Anim_64: 1735248903
+      Punch-Anim_65: -1051281357
+      Punch-Anim_66: -1355916563
+      Punch-Anim_67: -773620181
+      Punch-Anim_68: -1831690153
+      Punch-Anim_69: 2061632864
+      Punch-Anim_7: -1324753377
+      Punch-Anim_70: 1106125357
+      Punch-Anim_71: -714328683
+      Punch-Anim_72: -617283
+      Punch-Anim_73: 1015313817
+      Punch-Anim_74: -1720745115
+      Punch-Anim_75: 1730699723
+      Punch-Anim_76: -1793613902
+      Punch-Anim_77: 835635583
+      Punch-Anim_78: -959947605
+      Punch-Anim_79: 1616090501
+      Punch-Anim_8: -1054297759
+      Punch-Anim_80: 595565490
+      Punch-Anim_81: -1880099973
+      Punch-Anim_82: -523919709
+      Punch-Anim_83: 452946622
+      Punch-Anim_84: 127955865
+      Punch-Anim_85: 407663377
+      Punch-Anim_86: -364633926
+      Punch-Anim_87: 1764730497
+      Punch-Anim_9: 2007735171
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

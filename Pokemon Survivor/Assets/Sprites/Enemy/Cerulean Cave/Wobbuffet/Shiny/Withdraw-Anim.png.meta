@@ -1,0 +1,1359 @@
+fileFormatVersion: 2
+guid: c08b0311cc8b7c3488e85341cc0cbfcb
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Withdraw-Anim_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 293
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2a3658370201b4980700d3202dcefe
+      internalID: 1871183332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 293
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1c0ddda5bb6b747a4d23949e404ae0
+      internalID: -1842640828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 293
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffb72ea75b4f854e8a0654d2122d44c
+      internalID: -1391640206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 293
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4dbcda676cee084490f03938e9bf6dc
+      internalID: 1425862120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_4
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 293
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a687846089592824d9e171578e3c3d1e
+      internalID: -1517005557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_5
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 293
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5249b90eafd6c8e4391840d2ec6871c8
+      internalID: -349024366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_6
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 293
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa11be24d76eba4196767a08dfeaf28
+      internalID: -1639662462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_7
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 252
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325bdb929dd18b2479a38b9107328ffd
+      internalID: -1288078675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_8
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 252
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde50adccda985f4d8d1b98e79d0e78a
+      internalID: -1734062623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 252
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cbab597486d1a4bbb2a5dee759e542
+      internalID: -620276815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 252
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a55aba42aa42d248bc62745a7cd6389
+      internalID: 683787758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_11
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 252
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5562f0e9b0be3aa4faafecfa59039c60
+      internalID: 752704396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_12
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 252
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838156e3096db7e44acf15d48c1aebfc
+      internalID: -538488748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_13
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 252
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f28f6ed3e8d5dc459ceecfa56b65563
+      internalID: 1005900858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_14
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 213
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3282bc00f466e4943b86f9d73a97f268
+      internalID: 2125477436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 212
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc103bd0422be049a2471106702ae3c
+      internalID: 824306802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_16
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 213
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4685fabb3070f84a8e643066131a4d3
+      internalID: -279827146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 212
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5c3b85ab140184193d43164c2d6ba1
+      internalID: -1291082839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_18
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 213
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bf640102d9ede54ebb89bceb7a8cb72
+      internalID: -1429253599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_19
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 213
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91fb2080d02031947a9bfeb857430049
+      internalID: -513610314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_20
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 213
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714f1b7130ee56a45a6f58f879e70fb2
+      internalID: -792635810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98586484291f9e48a6458dcab6444ef
+      internalID: -1388724419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_22
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f145692e8411549a5b80bb224f15e6
+      internalID: 1488086695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_23
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ec55189199cc34ca0e4f4370963903
+      internalID: -37384293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 175
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 921322d29dcbd194583a11f739d918fa
+      internalID: -1238862442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_25
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 172
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a41b741fca1c5143838dc49dea912f3
+      internalID: 1405379149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_26
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 172
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0bb06ba2bdcfc40815fe50b91d910f
+      internalID: 329855721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_27
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 172
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965cf2732da387c41808a5f436f65ea2
+      internalID: 134832625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 133
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600f3df4d049d384c9b1b610ce34e118
+      internalID: 138980947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_29
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 133
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b590f2e71da2e4ebbac570964f3cad
+      internalID: -1092495035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_30
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 133
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8774dce2e188074c88dfd3e08f3f357
+      internalID: 1342437928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_31
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 133
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5af47e175e3ba418debfb3fc70f57e
+      internalID: -1706622509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_32
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 131
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424b99138665de845a4af0d0fc764689
+      internalID: 545611866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_33
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 133
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cac35648e723f458b3c7b776ab9c69
+      internalID: 1911357070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_34
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 133
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97761c27b42be134eb8fd15d5d6ef840
+      internalID: 772447069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_35
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 95
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f550f51046bade4f90353ce256e2d69
+      internalID: 1395421725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_36
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 95
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812d31f5d23cf5842ac84b29ba21bb12
+      internalID: -701977156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_37
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 95
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb34045025d004f459252050f756162f
+      internalID: 932224999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_38
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 95
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 952953273f8353b458d4525a8d348a77
+      internalID: -1103803673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_39
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 92
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c774e022cd5974da64e94776503214
+      internalID: -8436672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_40
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 92
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7f93aee46998e4c9a2d62af2d6e405
+      internalID: -2037358435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_41
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 92
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d859eb38ed5c8047b0c7a2bdfe01e2a
+      internalID: 69579636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_42
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 53
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc82a7c09b2a73e4ba9bebba1b320f30
+      internalID: 430163296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_43
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 52
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77abc279b95b4834dbacf607e05c4e68
+      internalID: -780152057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_44
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 53
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a8ffb0ac2fe3b4d97d964863f1963e
+      internalID: -1603901883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_45
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 52
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae501deabe775745b62319e25b9c0fa
+      internalID: -1448421407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_46
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 53
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4209662ea60fdf047bf65c5d821ee3cc
+      internalID: -844463755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_47
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 53
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f67f7d4a5ecfd48a2dc44f14adf85c
+      internalID: 224533973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_48
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 53
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c810bd779966443a7b088f74813c66
+      internalID: -1165108860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_49
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 12
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bfb759e5e4ff74da3fd23ceb9631ae
+      internalID: -564775046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_50
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 12
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89de99d5fc55b9488a99417eb85381b
+      internalID: 676250218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_51
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 12
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8046c8b617ab1664b8f201775dcbeb9c
+      internalID: -1899536605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_52
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 12
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385ab584d4f53c241887f2c58cd72328
+      internalID: -2042987825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_53
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 12
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63daa7c05c442184189f245ec870c462
+      internalID: 1550050474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_54
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 12
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d75bdc1b3f1ea6040aeb57e691a88f3a
+      internalID: 690822531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Withdraw-Anim_55
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 12
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625ee7db89684bc409687371adc57224
+      internalID: -1788632244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Withdraw-Anim_0: 1871183332
+      Withdraw-Anim_1: -1842640828
+      Withdraw-Anim_10: 683787758
+      Withdraw-Anim_11: 752704396
+      Withdraw-Anim_12: -538488748
+      Withdraw-Anim_13: 1005900858
+      Withdraw-Anim_14: 2125477436
+      Withdraw-Anim_15: 824306802
+      Withdraw-Anim_16: -279827146
+      Withdraw-Anim_17: -1291082839
+      Withdraw-Anim_18: -1429253599
+      Withdraw-Anim_19: -513610314
+      Withdraw-Anim_2: -1391640206
+      Withdraw-Anim_20: -792635810
+      Withdraw-Anim_21: -1388724419
+      Withdraw-Anim_22: 1488086695
+      Withdraw-Anim_23: -37384293
+      Withdraw-Anim_24: -1238862442
+      Withdraw-Anim_25: 1405379149
+      Withdraw-Anim_26: 329855721
+      Withdraw-Anim_27: 134832625
+      Withdraw-Anim_28: 138980947
+      Withdraw-Anim_29: -1092495035
+      Withdraw-Anim_3: 1425862120
+      Withdraw-Anim_30: 1342437928
+      Withdraw-Anim_31: -1706622509
+      Withdraw-Anim_32: 545611866
+      Withdraw-Anim_33: 1911357070
+      Withdraw-Anim_34: 772447069
+      Withdraw-Anim_35: 1395421725
+      Withdraw-Anim_36: -701977156
+      Withdraw-Anim_37: 932224999
+      Withdraw-Anim_38: -1103803673
+      Withdraw-Anim_39: -8436672
+      Withdraw-Anim_4: -1517005557
+      Withdraw-Anim_40: -2037358435
+      Withdraw-Anim_41: 69579636
+      Withdraw-Anim_42: 430163296
+      Withdraw-Anim_43: -780152057
+      Withdraw-Anim_44: -1603901883
+      Withdraw-Anim_45: -1448421407
+      Withdraw-Anim_46: -844463755
+      Withdraw-Anim_47: 224533973
+      Withdraw-Anim_48: -1165108860
+      Withdraw-Anim_49: -564775046
+      Withdraw-Anim_5: -349024366
+      Withdraw-Anim_50: 676250218
+      Withdraw-Anim_51: -1899536605
+      Withdraw-Anim_52: -2042987825
+      Withdraw-Anim_53: 1550050474
+      Withdraw-Anim_54: 690822531
+      Withdraw-Anim_55: -1788632244
+      Withdraw-Anim_6: -1639662462
+      Withdraw-Anim_7: -1288078675
+      Withdraw-Anim_8: -1734062623
+      Withdraw-Anim_9: -620276815
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

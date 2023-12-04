@@ -1,0 +1,2239 @@
+fileFormatVersion: 2
+guid: 3a2aeeb789e08c940abcae0ba28913d9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RearUp-Anim_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1198
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a2fd1eec582c440b456e846509af5a
+      internalID: -1588279723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_1
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1196
+        width: 34
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a940d376f31e2b4d9eed1a092e8cf95
+      internalID: -837448247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_2
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1197
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf074e7771f64334b84405b4b585bb81
+      internalID: 2043615100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1185
+        width: 40
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f2b6f696d5fb44f9a6172340603327
+      internalID: -93603826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_4
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 1178
+        width: 40
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ac162328ec35e4f9bb823ba8b1d7a6
+      internalID: 449770529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_5
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1163
+        width: 40
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd62b73d6ad3f1149a6a2fd543d95906
+      internalID: -55015732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_6
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1163
+        width: 40
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d337c1a65f0b94d9b0bd955ab301eb
+      internalID: -977876850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_7
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1163
+        width: 40
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91491e0f08522b24883a98ba6855195f
+      internalID: -1732826893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_8
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1163
+        width: 40
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcd347feec974845b47ba8e0bbc22b9
+      internalID: 1366307581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_9
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 1177
+        width: 39
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3746be9f96184479b66205870c5ecd
+      internalID: 1504323114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_10
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 1189
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce2504619d8182429863d6006c4df81
+      internalID: -544100316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_11
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 1205
+        width: 34
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ebc3a3017db3945b6152f7fdb88fd6
+      internalID: -1223977958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_12
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1038
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23378cb8703be24c8a2b5852ccb29df
+      internalID: 589887066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1036
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39e887a74b888c41b71833c665d5da9
+      internalID: -518631094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_14
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1040
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 043ddaeef6c827a4196cd82ffc2838bb
+      internalID: -740929019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_15
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1034
+        width: 49
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644d15c480dc22a4b959f30cd2788554
+      internalID: -249095172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_16
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1022
+        width: 49
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f9ee598e9ddb444bea7d42aae963a1
+      internalID: 1559706330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_17
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1008
+        width: 49
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a546eb5dc84d43408325f33806a0caf
+      internalID: -1646116589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_18
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1008
+        width: 49
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a9c5829eaf8514fb39d5846f2a4770
+      internalID: -1059106787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_19
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1008
+        width: 49
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a958a6df4f3b43f458864415dbac8f91
+      internalID: 1518096722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_20
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 1008
+        width: 49
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9a65b82c032ea4fafb159dc355a47e
+      internalID: 580233069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_21
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1024
+        width: 49
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb781c6e660d8643bbc4dabae1c57e4
+      internalID: -1119148179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_22
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1035
+        width: 49
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bb5a16d9094bb41a7282950da30c61
+      internalID: -1314215253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_23
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 1042
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e0b75b731083c4c992b472ff1bffcc
+      internalID: 1061953351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 880
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04335e4f128ee694ba14d6e4488cf4f0
+      internalID: -1160394614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_25
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 878
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abb604a4400b3241889e5cc0cecf106
+      internalID: -1206199431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_26
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 873
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99160c89f59356046857dd4a69a1c402
+      internalID: -411746222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_27
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 863
+        width: 66
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d22218973f6ab45b24a2e6ab542785
+      internalID: 1511526669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_28
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 849
+        width: 66
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a1313ab33039e8479b61d86c6668d3f
+      internalID: 389364630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_29
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 838
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d0dfa1fae3fd24b9317829c9401697
+      internalID: -132937269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_30
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 838
+        width: 66
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de93238c6bf55bb4b91d7246ab60ac08
+      internalID: -992514638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_31
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 838
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8682b18eb90d89942a3f49c5570d6f94
+      internalID: -906810780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_32
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 838
+        width: 66
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2e83f888771dd4db6c7cb1c84546ca
+      internalID: -1308829119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_33
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 852
+        width: 66
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604654db006bf504c921b57cd59cd31d
+      internalID: 116759615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_34
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 866
+        width: 66
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729f802e69774644dae1e948bc4f577b
+      internalID: 1728764447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_35
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 875
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783ab3a69ddbafa4eadb0c3885c592be
+      internalID: -381999108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 719
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2054e2652ecedd42a5e571eac6be3a8
+      internalID: -323735951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_37
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 717
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7b6ba3bd468d24cafc8e7e5008c35d
+      internalID: 1250903841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_38
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 716
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cb83a188cca4d49a31e0d5cea4b74a
+      internalID: -1462538725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_39
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 704
+        width: 46
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87f67f4f02c7de42b67a3b27d591466
+      internalID: 1937845384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_40
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 696
+        width: 46
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a02997665cc694390d7acea71e819f
+      internalID: -1908524195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_41
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 680
+        width: 46
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff38fd6f4040ce44c900dfcd11186c03
+      internalID: -245423942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_42
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 680
+        width: 46
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612aeee6bb2ff714c802a5dc73f30be6
+      internalID: 986883390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_43
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 680
+        width: 46
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484ae60487e0a41449aad7255a3c330c
+      internalID: -1263153779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_44
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 680
+        width: 46
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca717684f8c74841bc9b32e2934c3aa
+      internalID: 2012288484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_45
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 692
+        width: 46
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c30120153a383e44ea1d2dc7e5f3401b
+      internalID: 338288311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_46
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 704
+        width: 46
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39eae533f32f5d340a003f8bd61f0e42
+      internalID: 107799173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_47
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 716
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77abfdfccabe70d4f98ed05d161204a9
+      internalID: 815460341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_48
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 560
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed94965990566cc4c9552afa2755828b
+      internalID: 2074512993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_49
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 558
+        width: 33
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5138afe65e74d3a4ca30d59b2231f0ab
+      internalID: -905622390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_50
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 554
+        width: 38
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f5cb52cb97bf949bca2ed66a4bdc95
+      internalID: -1621561674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_51
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 544
+        width: 36
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b2221ed7d8297419b377ffe8f27a82
+      internalID: 2106829101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_52
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 534
+        width: 36
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9415940dfd8404395205f6a7dc8d29
+      internalID: 1668030350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_53
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 523
+        width: 36
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4601d807de728c148921ed779caac838
+      internalID: -763450416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_54
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 523
+        width: 36
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d287c2cff988f6b41aea1429f7e7a42c
+      internalID: 293330188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_55
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 523
+        width: 36
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196678a4534684f41a15117a8c3a815b
+      internalID: -678758115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_56
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 523
+        width: 37
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ef5be6e45af51b49901dbb510f7c3af
+      internalID: -780284667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_57
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 535
+        width: 36
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f43cd68783585498d09184da50c607
+      internalID: -788777380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_58
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 548
+        width: 36
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb559dbd8e39b04cae2e59eb354e8b8
+      internalID: 656835909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_59
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 554
+        width: 39
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22acae680ed1f4b48a9fcbf27cd4b952
+      internalID: -206385867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_60
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 399
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5932ad680ba1544aa8177c4fe40a5da
+      internalID: 889401795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_61
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 397
+        width: 63
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cc63e93461011449547e49a754b309
+      internalID: 409152370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_62
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 396
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbb2b65a1f4cf448a8f3cf30402c672
+      internalID: -719114092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_63
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 385
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23719b84f22df7c46ae2d0767a153330
+      internalID: -890969924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_64
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 378
+        width: 46
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d1d1cbc116a6f46ba38aec2f7e570f
+      internalID: -519651408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_65
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 359
+        width: 46
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daddd6f0df881824b8ab3d884803347a
+      internalID: 1708798439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_66
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 359
+        width: 46
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c335faff22e900e41a8fe04f091e00fe
+      internalID: -1322836581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_67
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 359
+        width: 46
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4aaf0475343a4419c143fb6f3b347a
+      internalID: -378085652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_68
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 359
+        width: 46
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5890e16a6297e94b9e3b3cfb72e2031
+      internalID: 1786587612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_69
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 372
+        width: 46
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169c6b0d6aa9e6848b65e8ea28947399
+      internalID: 116263945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_70
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 383
+        width: 46
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6722ec77c918c0f4292e75f98ff1d79b
+      internalID: -143277904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_71
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 396
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5d68e335532a143b796113e4276604
+      internalID: 108540272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_72
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 240
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fe064d1beb50a94bae2fdae75ab89f0
+      internalID: -479545448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_73
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 238
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a7748cdf637a7478ed752cd366426a
+      internalID: -1774078994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_74
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 233
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e389354d27d79a644bab8a2aba42d517
+      internalID: -588997221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_75
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 225
+        width: 66
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cdf1450cf2b9fe4f858f2d9c31e6c06
+      internalID: 265064987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_76
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 216
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d7d7ec1a00f124aaef58ebbc14a937
+      internalID: 1096619970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_77
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 197
+        width: 66
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54fcfc8f5188f7241a9a3a6ce04590fc
+      internalID: -1026209809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_78
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 197
+        width: 66
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307b4156cd6407d49a0a54aeec336e4f
+      internalID: 723200720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_79
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 197
+        width: 66
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7db0cbc8c37fd46bcdd2f93665e480
+      internalID: 192098931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_80
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 197
+        width: 66
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9079810e832ba2b41af1d2de0297ffc8
+      internalID: 2011395720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_81
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 212
+        width: 66
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9e79e3ca1ccd14aab8a69f450a6833
+      internalID: 323248220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_82
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 226
+        width: 66
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8428a5e808a18984d944e8eae1db9a68
+      internalID: 1654659343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_83
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 235
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81170992041fb64d9fd43de5cbb848c
+      internalID: -931089579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_84
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 78
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032a669b0267b454c8df356ef6daa5ed
+      internalID: -347284093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_85
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 76
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5aa51d4bc61d2438d7e7864b820d2b
+      internalID: -650865512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_86
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 80
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a33b1f3e54e3f4fa94f8944ccc222d
+      internalID: -2024760825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_87
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 73
+        width: 49
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9162808bcfb1b24bbcdb47fd6405c71
+      internalID: -35084985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_88
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 62
+        width: 49
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7711142819ebc0c4c8c92cd5e34462bc
+      internalID: 1521050488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_89
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 48
+        width: 49
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3936c265917038e4598a93fc7c108c0a
+      internalID: 1248359648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_90
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 48
+        width: 49
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a199b7f309a739b4ab7aba0b049311b8
+      internalID: 904625568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_91
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 48
+        width: 49
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9bf4a94257db74bac0b63bf1d19da0
+      internalID: -37829074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_92
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 48
+        width: 49
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78626637ac1f1f49bbc8927ec538235
+      internalID: -2015461616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_93
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 61
+        width: 49
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae471c3a345db524c9526623cde0b3bc
+      internalID: -634836447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_94
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 73
+        width: 49
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a89210df525364892afd1f78440a94
+      internalID: -2020197258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RearUp-Anim_95
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 82
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d2f53760e20b84d8ede060704520b9
+      internalID: -13702539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RearUp-Anim_0: -1588279723
+      RearUp-Anim_1: -837448247
+      RearUp-Anim_10: -544100316
+      RearUp-Anim_11: -1223977958
+      RearUp-Anim_12: 589887066
+      RearUp-Anim_13: -518631094
+      RearUp-Anim_14: -740929019
+      RearUp-Anim_15: -249095172
+      RearUp-Anim_16: 1559706330
+      RearUp-Anim_17: -1646116589
+      RearUp-Anim_18: -1059106787
+      RearUp-Anim_19: 1518096722
+      RearUp-Anim_2: 2043615100
+      RearUp-Anim_20: 580233069
+      RearUp-Anim_21: -1119148179
+      RearUp-Anim_22: -1314215253
+      RearUp-Anim_23: 1061953351
+      RearUp-Anim_24: -1160394614
+      RearUp-Anim_25: -1206199431
+      RearUp-Anim_26: -411746222
+      RearUp-Anim_27: 1511526669
+      RearUp-Anim_28: 389364630
+      RearUp-Anim_29: -132937269
+      RearUp-Anim_3: -93603826
+      RearUp-Anim_30: -992514638
+      RearUp-Anim_31: -906810780
+      RearUp-Anim_32: -1308829119
+      RearUp-Anim_33: 116759615
+      RearUp-Anim_34: 1728764447
+      RearUp-Anim_35: -381999108
+      RearUp-Anim_36: -323735951
+      RearUp-Anim_37: 1250903841
+      RearUp-Anim_38: -1462538725
+      RearUp-Anim_39: 1937845384
+      RearUp-Anim_4: 449770529
+      RearUp-Anim_40: -1908524195
+      RearUp-Anim_41: -245423942
+      RearUp-Anim_42: 986883390
+      RearUp-Anim_43: -1263153779
+      RearUp-Anim_44: 2012288484
+      RearUp-Anim_45: 338288311
+      RearUp-Anim_46: 107799173
+      RearUp-Anim_47: 815460341
+      RearUp-Anim_48: 2074512993
+      RearUp-Anim_49: -905622390
+      RearUp-Anim_5: -55015732
+      RearUp-Anim_50: -1621561674
+      RearUp-Anim_51: 2106829101
+      RearUp-Anim_52: 1668030350
+      RearUp-Anim_53: -763450416
+      RearUp-Anim_54: 293330188
+      RearUp-Anim_55: -678758115
+      RearUp-Anim_56: -780284667
+      RearUp-Anim_57: -788777380
+      RearUp-Anim_58: 656835909
+      RearUp-Anim_59: -206385867
+      RearUp-Anim_6: -977876850
+      RearUp-Anim_60: 889401795
+      RearUp-Anim_61: 409152370
+      RearUp-Anim_62: -719114092
+      RearUp-Anim_63: -890969924
+      RearUp-Anim_64: -519651408
+      RearUp-Anim_65: 1708798439
+      RearUp-Anim_66: -1322836581
+      RearUp-Anim_67: -378085652
+      RearUp-Anim_68: 1786587612
+      RearUp-Anim_69: 116263945
+      RearUp-Anim_7: -1732826893
+      RearUp-Anim_70: -143277904
+      RearUp-Anim_71: 108540272
+      RearUp-Anim_72: -479545448
+      RearUp-Anim_73: -1774078994
+      RearUp-Anim_74: -588997221
+      RearUp-Anim_75: 265064987
+      RearUp-Anim_76: 1096619970
+      RearUp-Anim_77: -1026209809
+      RearUp-Anim_78: 723200720
+      RearUp-Anim_79: 192098931
+      RearUp-Anim_8: 1366307581
+      RearUp-Anim_80: 2011395720
+      RearUp-Anim_81: 323248220
+      RearUp-Anim_82: 1654659343
+      RearUp-Anim_83: -931089579
+      RearUp-Anim_84: -347284093
+      RearUp-Anim_85: -650865512
+      RearUp-Anim_86: -2024760825
+      RearUp-Anim_87: -35084985
+      RearUp-Anim_88: 1521050488
+      RearUp-Anim_89: 1248359648
+      RearUp-Anim_9: 1504323114
+      RearUp-Anim_90: 904625568
+      RearUp-Anim_91: -37829074
+      RearUp-Anim_92: -2015461616
+      RearUp-Anim_93: -634836447
+      RearUp-Anim_94: -2020197258
+      RearUp-Anim_95: -13702539
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1887 @@
+fileFormatVersion: 2
+guid: cd4087fa6e24a2149a6e1c58a93e1636
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hop-Anim_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 655
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae2625afcade3741ac4f39fe97870d4
+      internalID: 1507102094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 660
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed3c42583c06b9479682cbe4c6315e5
+      internalID: 1499606920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 659
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5625a3ce8d05fe4da5eefb6c6d019d6
+      internalID: -1533655192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_3
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 657
+        width: 16
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd4fca1d06d3abb43a729249810789c4
+      internalID: 753994475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 654
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720d8b3d6f4c75546b875076dd86ab76
+      internalID: -1131722034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 651
+        width: 21
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 561811e5202008f4cb2c069ddad301a4
+      internalID: 1374236178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_6
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 655
+        width: 19
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373fa1f44dc5c4a4083bd8beb6624bce
+      internalID: -569687152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_7
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 659
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7e05113a20c1c46833237044e09aab
+      internalID: -1783630040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_8
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 662
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4825696c6b3ff66458288248cc2ef6c3
+      internalID: -1409456545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_9
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 653
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7866029178a5ba94c878779f8d207327
+      internalID: 1518565368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 566
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39761cf5ff46603438b87a3c063c86d2
+      internalID: 676093455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_11
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 570
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51006144150715649904b464ce755974
+      internalID: -1717667607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_12
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 567
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0532a861f44d34bbe1dfaa0c3fa318
+      internalID: 469978622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 564
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b298ada6f8ad04fbc39b05c3c075a8
+      internalID: -1292139179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 562
+        width: 16
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1def5cdff7336864ea7e65cc92f83691
+      internalID: -1820979603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_15
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 559
+        width: 16
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953e88a38f1831844b0006181326f4b3
+      internalID: -540965448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 564
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12ab5974d503474081517821a112781
+      internalID: -485942439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_17
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 568
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5edce081f6d784cb48c22d4c82db4c
+      internalID: 1181310787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 573
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de2f0d8fab8dd844942e3b9f239acba
+      internalID: 1094884180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_19
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 565
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceeee4931085ce8408db2b1050f78ede
+      internalID: 1460100480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_20
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 478
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a9255313db44d94797c8401c3aaff68
+      internalID: -1652028662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 482
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774fbd565b5ed414491b2b707af710b8
+      internalID: 354797485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_22
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 480
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd738f3019ef8541b03ebf399e0191b
+      internalID: -1465147953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_23
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 477
+        width: 19
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bc6d1e9c8a7284f987e7af88953880
+      internalID: 1191648228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_24
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 474
+        width: 19
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e939200b700f2ad44b97bbdf4cafa282
+      internalID: 1957799585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_25
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 471
+        width: 14
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2544c456e128ee44baf56ea2e0b773a7
+      internalID: 1076542029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_26
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 475
+        width: 17
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe9d5ff13531c44b97b9befe0238222
+      internalID: 710051220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_27
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 479
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc869fd5c7000a4abb1df175699a147
+      internalID: 2116494680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 485
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95793d4bae7df7046b2d0865a8866a74
+      internalID: 1432333851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_29
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 478
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4858cce38c15f0a43832e8f81c6dff9d
+      internalID: 335221442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 390
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e4d504ff04ae14f8afc01e30fe979d
+      internalID: 1568529255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_31
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 396
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a030dd12e07d4a4ca3887ca62f93138
+      internalID: 450981592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_32
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 394
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c36662b46179344b1b4ae782501667
+      internalID: -2001302220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_33
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 392
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad5ed67898cc024fb707deafa763bc5
+      internalID: 465634700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_34
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 390
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2657bd599e404a4d8e7f19d003f94f5
+      internalID: -1487191687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_35
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 386
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ea977a0f9772d4d90dfc8bda9fd94c
+      internalID: -1979558878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_36
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 392
+        width: 18
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b76311cc006a2843a06a8561e5fb93d
+      internalID: 1881269454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_37
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 395
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bad9425141cc044c8a78ab06418d27a
+      internalID: 1700761269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_38
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 398
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16484aa6cae8f5544b2a089c16d9d2ac
+      internalID: 201066052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_39
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 390
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb8693ebb1b3454ea2fe0374d03bde3
+      internalID: -1899052800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 303
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9288dc72959cdcc46b9004f95f3bd612
+      internalID: -1201915369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_41
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 307
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73c27b96ddb56040ace3a325375aff2
+      internalID: -958249583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_42
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 305
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66db3d01332e4f745946b1bc5c3064d2
+      internalID: 1039921081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_43
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 303
+        width: 17
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97453f51cf9a19c46acadfafbe384aa6
+      internalID: -924912852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_44
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 301
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8611c13d5b911c448b2e93e3f5328a2
+      internalID: 392314652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_45
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 298
+        width: 21
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af44fefbfc44944fb4c8451c3ce928d
+      internalID: 1574562219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_46
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 302
+        width: 19
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3da4f586daf89419f1fc1d5e709f1e
+      internalID: 1738966633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_47
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 305
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9890de7528ac55b428407b9434435463
+      internalID: 1902492214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_48
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 308
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156193ae2cee23f4fa731b7e7f59a137
+      internalID: 640944187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_49
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 300
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b866a7c214cc0d84ba446089f108dc00
+      internalID: 1790232230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_50
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 214
+        width: 15
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e16ec1b7697c804c8b01a89739193dc
+      internalID: 1167549778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_51
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 218
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a3ceed43b27d54e8fa67500ca09e52
+      internalID: -70672929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_52
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 215
+        width: 18
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a632cf9c0050d04a95a0e2cf478fca8
+      internalID: -379796078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_53
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 213
+        width: 18
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733e3d1724c10e742b5544598b368a77
+      internalID: -1787837021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_54
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 211
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0643d23c170b5224697dde9979e09993
+      internalID: -1417246248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_55
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 208
+        width: 15
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2252df120c54fdf448c9f3786c838171
+      internalID: 958664696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_56
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 213
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c404e9ecc5e57445a9b752bae17b51c
+      internalID: -1963500958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_57
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 217
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dbc0c99c7dc3945bbaa51f3f449e85
+      internalID: -883485792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_58
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 221
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac8acf04146f1047bb3462d7fb4c608
+      internalID: 1728682166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_59
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 214
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dc7d1c2ed558e49b3e0adfa8a70ada
+      internalID: -547652514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_60
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 126
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4190fa6c4f6d367439553c5b2e6769a2
+      internalID: -1889555163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_61
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 130
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698e9855ac5f04b45b445f1127bd0ec5
+      internalID: 2020854735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_62
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 129
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44430953f00bed74a913d25e00dd4e88
+      internalID: 527514209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_63
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 127
+        width: 19
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32db11e9777d4c8488d38231346c9558
+      internalID: -1714096677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_64
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 125
+        width: 19
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb709e82f15801d448f2c0c053a93eb4
+      internalID: -1173410707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_65
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 124
+        width: 14
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366b6e302b30ac24f8414892a9869beb
+      internalID: 595994684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_66
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 128
+        width: 17
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fd85f86d1dff36458cb7b66cf381453
+      internalID: 828950876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_67
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 131
+        width: 17
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f31f56f6921050498106677da4046ea
+      internalID: 1543400235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_68
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 134
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54593fab4b904154fa24769d987f6d5f
+      internalID: -935654897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_69
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 126
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81239a9f2da20754fb7a4f3350efcfa3
+      internalID: -1098853828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_70
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 38
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6e1a4335326b8a40a18adc9addb8fff
+      internalID: -320902507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_71
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 41
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a721499f1d24f4e9fbbf13d81f3a80
+      internalID: 1623153440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_72
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 39
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bee488d1ff4c849b522726ff923f60
+      internalID: 290736989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_73
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 37
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312b510b51e07024da5bdd89ead062d4
+      internalID: 1758381637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_74
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 35
+        width: 16
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab009cfcd3b45ba4a9ba477e37dfce8e
+      internalID: 1803484598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_75
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 33
+        width: 16
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70094063580f0fb4bad8e52a100dac72
+      internalID: -2012307704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_76
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 38
+        width: 18
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db884198fc532f141a22b0f128e2f001
+      internalID: 1211137905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_77
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 41
+        width: 18
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fca44cb1effc2d4f89b491ac8d22907
+      internalID: -1535187482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_78
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 44
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1019253140dc0de48b3556fbbea341d2
+      internalID: 1189302018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hop-Anim_79
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 37
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e66c7319e4ecd34491e41ab848137a7
+      internalID: -225358894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Hop-Anim_0: 1507102094
+      Hop-Anim_1: 1499606920
+      Hop-Anim_10: 676093455
+      Hop-Anim_11: -1717667607
+      Hop-Anim_12: 469978622
+      Hop-Anim_13: -1292139179
+      Hop-Anim_14: -1820979603
+      Hop-Anim_15: -540965448
+      Hop-Anim_16: -485942439
+      Hop-Anim_17: 1181310787
+      Hop-Anim_18: 1094884180
+      Hop-Anim_19: 1460100480
+      Hop-Anim_2: -1533655192
+      Hop-Anim_20: -1652028662
+      Hop-Anim_21: 354797485
+      Hop-Anim_22: -1465147953
+      Hop-Anim_23: 1191648228
+      Hop-Anim_24: 1957799585
+      Hop-Anim_25: 1076542029
+      Hop-Anim_26: 710051220
+      Hop-Anim_27: 2116494680
+      Hop-Anim_28: 1432333851
+      Hop-Anim_29: 335221442
+      Hop-Anim_3: 753994475
+      Hop-Anim_30: 1568529255
+      Hop-Anim_31: 450981592
+      Hop-Anim_32: -2001302220
+      Hop-Anim_33: 465634700
+      Hop-Anim_34: -1487191687
+      Hop-Anim_35: -1979558878
+      Hop-Anim_36: 1881269454
+      Hop-Anim_37: 1700761269
+      Hop-Anim_38: 201066052
+      Hop-Anim_39: -1899052800
+      Hop-Anim_4: -1131722034
+      Hop-Anim_40: -1201915369
+      Hop-Anim_41: -958249583
+      Hop-Anim_42: 1039921081
+      Hop-Anim_43: -924912852
+      Hop-Anim_44: 392314652
+      Hop-Anim_45: 1574562219
+      Hop-Anim_46: 1738966633
+      Hop-Anim_47: 1902492214
+      Hop-Anim_48: 640944187
+      Hop-Anim_49: 1790232230
+      Hop-Anim_5: 1374236178
+      Hop-Anim_50: 1167549778
+      Hop-Anim_51: -70672929
+      Hop-Anim_52: -379796078
+      Hop-Anim_53: -1787837021
+      Hop-Anim_54: -1417246248
+      Hop-Anim_55: 958664696
+      Hop-Anim_56: -1963500958
+      Hop-Anim_57: -883485792
+      Hop-Anim_58: 1728682166
+      Hop-Anim_59: -547652514
+      Hop-Anim_6: -569687152
+      Hop-Anim_60: -1889555163
+      Hop-Anim_61: 2020854735
+      Hop-Anim_62: 527514209
+      Hop-Anim_63: -1714096677
+      Hop-Anim_64: -1173410707
+      Hop-Anim_65: 595994684
+      Hop-Anim_66: 828950876
+      Hop-Anim_67: 1543400235
+      Hop-Anim_68: -935654897
+      Hop-Anim_69: -1098853828
+      Hop-Anim_7: -1783630040
+      Hop-Anim_70: -320902507
+      Hop-Anim_71: 1623153440
+      Hop-Anim_72: 290736989
+      Hop-Anim_73: 1758381637
+      Hop-Anim_74: 1803484598
+      Hop-Anim_75: -2012307704
+      Hop-Anim_76: 1211137905
+      Hop-Anim_77: -1535187482
+      Hop-Anim_78: 1189302018
+      Hop-Anim_79: -225358894
+      Hop-Anim_8: -1409456545
+      Hop-Anim_9: 1518565368
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

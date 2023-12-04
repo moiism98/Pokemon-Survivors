@@ -1,0 +1,1161 @@
+fileFormatVersion: 2
+guid: 2966a84ee5e653b48b7e6317f29dd8c8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: petalburg_woods_walls_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 580
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179248815fd707345b0f0018557492bb
+      internalID: 1390847276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 580
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63baffad4cd0f864bac3688fbf96430b
+      internalID: 1963921598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 580
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80fc58bdc317e88469f78ca751e2dccf
+      internalID: 1457217215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 555
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4b52a7b23b7f141bca9c281ab29285
+      internalID: 2112932028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 555
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4675fd9b77e58d84caeeccc484e69bed
+      internalID: 564091879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 555
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8c1e11334e7e645aa221918fe439d9
+      internalID: -1425112309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 530
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4b5900919fe69478350d243b0f77e7
+      internalID: 2035542966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 530
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2efac9e2f4cfc4c9d00002b8279deb
+      internalID: 1059656470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_8
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 530
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132c61151c8461d498060aeb02cd0ece
+      internalID: 763674721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 505
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244f00e671a267d42a2599e74de64ed9
+      internalID: 1468077339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 505
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dad436930c74644f8a9b3eb87c06855
+      internalID: 459686797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 505
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5aaeb31d70f12848802ea344eb04115
+      internalID: 1416955432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c6b25887787214098ea2aaa4442155
+      internalID: 1140821313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 480
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c8176808cd6e3489bcf070d01b5ed3
+      internalID: -47508071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 455
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4b3d16c34f53648899d93b43a972b1
+      internalID: -221917400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_15
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 455
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e5304557ec53f4eab3bc9a13205fd5
+      internalID: 74599899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_16
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 430
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c2fdac7ce39ad44ab6c32e7b0126e3
+      internalID: -283547470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 405
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f93f31c970a74409c8ea5c94532ff0
+      internalID: 1026734476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_18
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 405
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7734b43d77302d4dacf23f25018ce5c
+      internalID: -406919853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_19
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 405
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10ef9affadaa4a4b91c623540055ebb
+      internalID: -572468565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_20
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 380
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7097476b60886dd47869e556c07eef8b
+      internalID: 693410858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_21
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 355
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0873e1c2bc7fe741aee3def9cb042a1
+      internalID: 1665097361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 330
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465ccbf88d4e2aa43b160551c4cf0f42
+      internalID: 583262191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_23
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 330
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4aa6af77ec42b4bada6fed8c5867d3
+      internalID: -1344904452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_24
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 305
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8eb159c78c4a7d4fa6e67a3f1deb1b8
+      internalID: 568342197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_25
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 280
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22be6a7c0b09353429be6d9e29acd043
+      internalID: -1071264958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_26
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 255
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 339a4b7add2639f488ca002c476ef4a1
+      internalID: -1062662602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_27
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 255
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 846b7eb43aa305940a80be7f57fa7986
+      internalID: 386276374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_28
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 230
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edf873eb194c8a4ab2ab67d9ebaf3e9
+      internalID: -1048707787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_29
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 205
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7c7bbb876d830429e04a39b9c91633
+      internalID: -1522918082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_30
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 205
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95756d399f28eda47b88413a47cf94fd
+      internalID: 2053078987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 180
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab967805872d68459be0d918a9d5f94
+      internalID: 1569444114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 180
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53774bace58880646ba301dd04185c74
+      internalID: -769490095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_33
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 155
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb26228694745842b953bff9c389564
+      internalID: 780478013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_34
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 155
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bde8bc5c7e38ee459a3b0662640d3e0
+      internalID: 1840825808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 130
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0be8a05da6cc24d90a11e234388317
+      internalID: 259826210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_36
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 130
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cdd059b989239643bbda08d830e8144
+      internalID: 1985688867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_37
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 105
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a592cd28896ee1b4ba9a9ff9cadc5cc1
+      internalID: -980505031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_38
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 105
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00d22b928e0faf4e804b4a8f6556901
+      internalID: -390725543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512d4f962cf8ec246b0ffceb7863006c
+      internalID: -939259894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_40
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 80
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c3b7b3393438c4d8c5f75c70907412
+      internalID: -1295498192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 55
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 175d5aa8e694aca41acf40ba0389138c
+      internalID: -278802642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_42
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 55
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8afd578cd6df441a600ce0585b1e26
+      internalID: 952393642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 30
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7f329da18962d43801f2a6782bf232
+      internalID: -170873245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_44
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 30
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596a6e5113affb344ac57dc0756df7c4
+      internalID: 470349923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_45
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58db1acb532f5d7478161dee75361bfe
+      internalID: -994862640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: petalburg_woods_walls_46
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 5
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba4a6cfb96a84b4a8cf6df4f67e6146
+      internalID: -2096549271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      petalburg_woods_walls_0: 1390847276
+      petalburg_woods_walls_1: 1963921598
+      petalburg_woods_walls_10: 459686797
+      petalburg_woods_walls_11: 1416955432
+      petalburg_woods_walls_12: 1140821313
+      petalburg_woods_walls_13: -47508071
+      petalburg_woods_walls_14: -221917400
+      petalburg_woods_walls_15: 74599899
+      petalburg_woods_walls_16: -283547470
+      petalburg_woods_walls_17: 1026734476
+      petalburg_woods_walls_18: -406919853
+      petalburg_woods_walls_19: -572468565
+      petalburg_woods_walls_2: 1457217215
+      petalburg_woods_walls_20: 693410858
+      petalburg_woods_walls_21: 1665097361
+      petalburg_woods_walls_22: 583262191
+      petalburg_woods_walls_23: -1344904452
+      petalburg_woods_walls_24: 568342197
+      petalburg_woods_walls_25: -1071264958
+      petalburg_woods_walls_26: -1062662602
+      petalburg_woods_walls_27: 386276374
+      petalburg_woods_walls_28: -1048707787
+      petalburg_woods_walls_29: -1522918082
+      petalburg_woods_walls_3: 2112932028
+      petalburg_woods_walls_30: 2053078987
+      petalburg_woods_walls_31: 1569444114
+      petalburg_woods_walls_32: -769490095
+      petalburg_woods_walls_33: 780478013
+      petalburg_woods_walls_34: 1840825808
+      petalburg_woods_walls_35: 259826210
+      petalburg_woods_walls_36: 1985688867
+      petalburg_woods_walls_37: -980505031
+      petalburg_woods_walls_38: -390725543
+      petalburg_woods_walls_39: -939259894
+      petalburg_woods_walls_4: 564091879
+      petalburg_woods_walls_40: -1295498192
+      petalburg_woods_walls_41: -278802642
+      petalburg_woods_walls_42: 952393642
+      petalburg_woods_walls_43: -170873245
+      petalburg_woods_walls_44: 470349923
+      petalburg_woods_walls_45: -994862640
+      petalburg_woods_walls_46: -2096549271
+      petalburg_woods_walls_5: -1425112309
+      petalburg_woods_walls_6: 2035542966
+      petalburg_woods_walls_7: 1059656470
+      petalburg_woods_walls_8: 763674721
+      petalburg_woods_walls_9: 1468077339
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
